@@ -1,0 +1,223 @@
+{
+  "top-banner": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "bharat": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "global": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "sports": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "sport": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "finance": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "gossip": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "immigration": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "health": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "technology": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "auto": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "entertainment": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  },
+  "travel": {
+    "ad1": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad2": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    },
+    "ad3": {
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*HcMqTLZjpyEGzYNJ07NjTA.gif",
+      "link": "#",
+      "label": "Advertise here"
+    }
+  }
+}

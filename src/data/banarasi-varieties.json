@@ -1,0 +1,175 @@
+{
+  "Weave & Base Fabric": [
+    {
+      "name": "Katan Silk Banarasi",
+      "category": "Weave & Base Fabric",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, festive",
+      "description": "Woven from pure twisted mulberry silk yarn (katan), this is considered the purest and most traditional Banarasi base — crisp, lustrous, and the foundation on which most classic zari work is done.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT5XJwDbukP0YiBRZ3LzZT7DARF-N63xe_I8cDYPXSA&s",
+      "materials": "Pure katan (twisted) mulberry silk, zari",
+      "difficulty": "High",
+      "notes": "Considered the gold standard base fabric for authentic handloom Banarasi sarees."
+    },
+    {
+      "name": "Organza (Kora) Banarasi",
+      "category": "Weave & Base Fabric",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Summer wedding functions, daytime festive wear",
+      "description": "Woven with a sheer, lightweight silk-and-zari base that gives a translucent, airy drape, making it far cooler to wear than dense katan silk while retaining the zari motifs.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwMPznu11jWQgoyVqwj4CwZPHXxc3GzjBRj7ZBwJwiQ&s=10",
+      "materials": "Kora (raw) silk-organza blend, zari",
+      "difficulty": "Moderate",
+      "notes": "A popular choice for summer weddings and daytime functions where heavier silk feels impractical."
+    },
+    {
+      "name": "Georgette Banarasi",
+      "category": "Weave & Base Fabric",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Party wear, festive, reception",
+      "description": "Uses a georgette base instead of pure silk, giving a softer fall and fluid drape while still carrying traditional Banarasi motifs — a lighter, more contemporary alternative.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj7R_d2J67j-5vGu3M6xEfigGauvHkG_L1T6Dl50p7ZbCh_12Yml70Q&s=10",
+      "materials": "Georgette, zari and silk thread motifs",
+      "difficulty": "Moderate",
+      "notes": "Favoured for its softer drape and lower weight compared to katan silk versions."
+    },
+    {
+      "name": "Shattir (Mixed Silk) Banarasi",
+      "category": "Weave & Base Fabric",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Semi-formal festive wear",
+      "description": "Woven using a mix of silk and cotton or art-silk yarns, producing a more affordable, slightly stiffer fabric that still carries the characteristic Banarasi brocade patterning.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXzuEmRgV8gSvMdUw6_G3JweoQNJcj1jC92WDMIlB7aQ&s=10",
+      "materials": "Mixed silk-cotton or art-silk yarn, zari",
+      "difficulty": "Low",
+      "notes": "A budget-friendly entry point into Banarasi weaving, common in mass retail."
+    }
+  ],
+  "Weaving Technique": [
+    {
+      "name": "Jangla Banarasi",
+      "category": "Weaving Technique",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, bridal trousseau",
+      "description": "One of the oldest Banarasi weaving styles, featuring dense, all-over intricate patterns of flora and vines covering nearly the entire body of the saree in a jungle-like (jangla) spread.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFX32F5g7R6Dcd4NK35nAx6MA_gBsjXHLKO2NsG8J1A&s=10",
+      "materials": "Silk, dense zari vine and floral motifs",
+      "difficulty": "High",
+      "notes": "One of the most labour-intensive traditional Banarasi weaves, taking weeks to months on the loom."
+    },
+    {
+      "name": "Tanchoi Banarasi",
+      "category": "Weaving Technique",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Festive, semi-formal wear",
+      "description": "Uses an extra-weft satin weaving technique originally brought from China via Surat, producing a smooth, closely-woven fabric with small, delicate motifs and minimal use of zari.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsDEStno6ZGW7hgRgaDTlt4ZATB75OnEUi6BSYqBA9Q&s=10",
+      "materials": "Silk, satin-weave extra-weft patterning",
+      "difficulty": "High",
+      "notes": "Distinct for its subtle sheen and fine motifs rather than heavy gold work, giving it a more understated elegance."
+    },
+    {
+      "name": "Cutwork Banarasi",
+      "category": "Weaving Technique",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Daily to semi-formal festive wear",
+      "description": "Motifs are woven with floating threads that are later cut away by hand, leaving crisp, clean patterns against a plain or lightly-worked background — giving a net-like, airy effect.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1YCmqtnhsuRafwYR-HU-LhevmdgDftO9w24lDoZTk8w&s=10",
+      "materials": "Silk or silk-cotton blend, cutwork motifs",
+      "difficulty": "Moderate",
+      "notes": "Lighter and more affordable than dense zari weaves, popular for everyday festive wear."
+    },
+    {
+      "name": "Butidar Banarasi",
+      "category": "Weaving Technique",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, festive",
+      "description": "Small individual motifs (butis) are scattered evenly across the body of the saree, each woven separately, giving a refined, all-over sprinkled pattern rather than a continuous design.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmG21eVq8HHrCwFszD0bBQhZKOC8WJVOexw5LBmopX8A&s",
+      "materials": "Silk, scattered zari buti motifs",
+      "difficulty": "High",
+      "notes": "The scattered-motif technique is one of the most recognisable classic Banarasi styles."
+    }
+  ],
+  "Zari & Brocade Style": [
+    {
+      "name": "Kimkhwab (Pure Zari) Banarasi",
+      "category": "Zari & Brocade Style",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Bridal, heirloom",
+      "description": "The most opulent Banarasi variety, woven with real gold and silver zari in a dense brocade so heavy it was historically called 'kimkhwab' — meaning 'little dream' — for its rarity and richness.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl4cRoOXfARNYbL_LuSJ0_yLNXSXlY4HLHR447fT1M_yxRVEp1TROTziY&s=10",
+      "materials": "Pure silk, real gold/silver zari brocade",
+      "difficulty": "High",
+      "notes": "Historically reserved for royalty; among the most expensive Banarasi sarees produced today."
+    },
+    {
+      "name": "Meenakari Banarasi",
+      "category": "Zari & Brocade Style",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, festive",
+      "description": "Coloured enamel-like threads (meenakari) are woven alongside gold or silver zari to create a two-tone shimmer effect within the motifs, echoing the meenakari enamelling craft of jewellery.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GvmGnZU-kydaNPSjWMZLDcoenjn8qPBT7Ylscln5Gg&s=10",
+      "materials": "Silk, zari with coloured meenakari thread accents",
+      "difficulty": "High",
+      "notes": "The colour-shift effect within the gold motifs is the defining visual signature of this style."
+    },
+    {
+      "name": "Tissue Banarasi",
+      "category": "Zari & Brocade Style",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, reception",
+      "description": "Fine gold or silver zari threads are woven directly into the body of the fabric rather than confined to motifs, giving the entire saree a shimmering, metallic sheen.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnscqXUbvu1NIduPjZMqfcIUiaaDqH4uWjesWfqbCBw&s=10",
+      "materials": "Silk with zari woven through the body",
+      "difficulty": "High",
+      "notes": "The shimmer changes appearance under different lighting, similar to tissue Kanjeevaram sarees."
+    },
+    {
+      "name": "Rangkat Banarasi",
+      "category": "Zari & Brocade Style",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Festive, semi-formal",
+      "description": "Two or more colours are used within the same weave using the ikat-influenced 'rangkat' technique, creating a subtle colour-blend effect across the body of the saree.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRue4Ztou9cZLJeXOpbtYsVUDuEQ-6d1GU5SqpM5Jyodw&s=10",
+      "materials": "Silk, multi-coloured warp/weft threads",
+      "difficulty": "Moderate",
+      "notes": "Prized for its subtle, gradient-like colour transitions rather than sharp contrast blocks."
+    }
+  ],
+  "Border & Pallu Style": [
+    {
+      "name": "Shikargah Banarasi",
+      "category": "Border & Pallu Style",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Bridal, heirloom",
+      "description": "Depicts hunting scenes (shikar) with animals, birds, and foliage woven across the pallu in intricate narrative detail, drawing directly on Mughal court textile traditions.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4-UFlt-vKqekiN0K3r45JwRRitrre0HhmGxsANUTlw&s=10",
+      "materials": "Silk, dense narrative zari pallu work",
+      "difficulty": "High",
+      "notes": "One of the rarest and most historically significant Banarasi motifs, seldom mass-produced."
+    },
+    {
+      "name": "Temple Border Banarasi",
+      "category": "Border & Pallu Style",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, temple functions",
+      "description": "Features a stepped, zigzag temple-tower border similar to South Indian temple-border sarees, blending a South Indian motif tradition with North Indian Banarasi weaving.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWYe3OFHI-rQaGytYA7XIWB55rkd7KedIPfG3YXCuHg&s",
+      "materials": "Silk, zari temple-pattern border",
+      "difficulty": "High",
+      "notes": "A cross-regional fusion style popular with buyers who want temple-border aesthetics on a Banarasi weave."
+    },
+    {
+      "name": "Paisley (Kalga-Bel) Banarasi",
+      "category": "Border & Pallu Style",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, festive",
+      "description": "The border and pallu carry a continuous vine (bel) interspersed with paisley (kalga) motifs, one of the most classic and widely recognised Banarasi border patterns.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZe3rthVqn_awhUCMqpSqcZoqM4wRS6rMKMS7AOH9Jg&s=10",
+      "materials": "Silk, zari kalga-bel border work",
+      "difficulty": "Moderate",
+      "notes": "Among the most commonly seen Banarasi border designs across price points."
+    }
+  ]
+}

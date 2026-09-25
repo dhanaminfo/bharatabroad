@@ -1,0 +1,208 @@
+{
+  "Weave & Construction": [
+    {
+      "name": "Ottu (Single Warp) Weave",
+      "category": "Weave & Construction",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Daily wear, office wear",
+      "description": "The simplest Kanjeevaram construction. The border is woven separately and joined to the body using the 'petni' interlock technique. Lighter in weight than double-warp sarees, making it more comfortable for everyday draping.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhj2ob74vl1HtmSmgHJReLBP2AZa9U3bnKT0dDUGxI_ZpnjgG0Pj04nc1s&s=10",
+      "materials": "Mulberry silk, zari border",
+      "difficulty": "Moderate",
+      "notes": "Good entry point for first-time Kanjeevaram buyers due to lighter weight and lower cost."
+    },
+    {
+      "name": "Korvai (Rettapet)",
+      "category": "Weave & Construction",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Wedding, festive, temple visits",
+      "description": "The signature Kanjeevaram technique. Body, border, and pallu are each woven on separate warps with separate shuttles, then interlocked at the join so the colours can differ dramatically — for example a maroon body with a green border — while the seam stays almost invisible from the front.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cqSXRcprDIrXokvPKlbyn9yupgel3gTnP63pWhJwd8lNeILp2J2MBLs&s=10",
+      "materials": "Pure mulberry silk, contrast-colour zari borders",
+      "difficulty": "High",
+      "notes": "The interlocking join is the technical signature that distinguishes genuine Kanjeevaram weaving from printed or power-loom imitations."
+    },
+    {
+      "name": "Double Warp Weave",
+      "category": "Weave & Construction",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Bridal, heirloom pieces",
+      "description": "Uses two sets of warp threads twisted together, producing a denser, heavier fabric with more drape and durability. This is what gives classic Kanjeevarams their characteristic stiffness and longevity — heirloom sarees passed down generations are usually double-warp.",
+      "image": "https://www.nishalee.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-18-at-3.07.59-PM.jpeg",
+      "materials": "Double mulberry silk warp threads, gold/silver zari",
+      "difficulty": "High",
+      "notes": "Heavier on the body but far more durable; often the choice for sarees meant to last decades."
+    }
+  ],
+  "Motif & Design Tradition": [
+    {
+      "name": "Temple Border (Gopuram)",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Temple visits, weddings, festive",
+      "description": "A zigzag or stepped border pattern that echoes the stepped towers (gopurams) of South Indian temple architecture. One of the oldest and most recognisable Kanjeevaram border designs.",
+      "image": "https://geethusarees.com/cdn/shop/files/IMG-20230905-WA0556.jpg?v=1693896784",
+      "materials": "Silk with wide zari temple-pattern border",
+      "difficulty": "High",
+      "notes": "Considered the most traditional and auspicious border style, closely tied to Tamil temple culture."
+    },
+    {
+      "name": "Checked / Rudraksha Border",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Semi-formal, festive",
+      "description": "Small bead-like motifs, resembling rudraksha seeds, repeat along the border in a continuous row, giving a textured, devotional look.",
+      "image": "https://geethusarees.com/cdn/shop/files/IMG-20230905-WA0556.jpg?v=1693896784",
+      "materials": "Silk, fine zari beadwork border",
+      "difficulty": "Moderate",
+      "notes": "Often paired with plain or lightly-worked bodies to keep the focus on the border detail."
+    },
+    {
+      "name": "Vairaoosi Border",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Festive, formal wear",
+      "description": "A repeating diamond-shaped pattern woven along the border, named after 'vairam' (diamond). The geometric repetition gives a sharp, structured edge to the saree.",
+      "image": "https://shobitam.in/cdn/shop/files/AJP0079_7.jpg?v=1762930515&width=1080",
+      "materials": "Silk, geometric zari border",
+      "difficulty": "Moderate",
+      "notes": "A popular alternative to temple borders for those who prefer a more geometric, modern look while staying traditional."
+    },
+    {
+      "name": "Peacock (Mayil) Motif",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Wedding, festive",
+      "description": "Peacocks — a recurring symbol in Tamil art and temple sculpture — are woven into the pallu or scattered across the body, often facing each other in pairs.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KQdXzwMzVpvnw47tPPLSmUS1_ajLn8hAfY7DeZurWTjyCdhjuPD2FxQ-&s=10",
+      "materials": "Silk, zari peacock motifs on pallu/body",
+      "difficulty": "High",
+      "notes": "One of the most sought-after motifs for bridal trousseaus."
+    },
+    {
+      "name": "Yaali / Simha Motif",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Wedding, ceremonial",
+      "description": "Mythical lion-like creatures (yaali) drawn directly from South Indian temple pillar sculpture, woven into the pallu as guardian figures.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc__KuSiJGo8tMgqq4llx35KyduuDqZjLmb58iA8Bf4ZZZaeRnqbXV-p_N&s=10",
+      "materials": "Silk, dense zari figure work",
+      "difficulty": "High",
+      "notes": "Considered a heavier, more elaborate motif reserved for grand occasions."
+    },
+    {
+      "name": "Rudraksham Motif",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Temple visits, festive",
+      "description": "Small rudraksha-bead-inspired motifs are scattered across the body rather than confined to the border, giving an all-over devotional texture.",
+      "image": "https://www.pothys.com/cdn/shop/files/6A_25514341-3094-4cd1-a3b1-7d1eeaf342d0.jpg?v=1780124366&width=2048",
+      "materials": "Silk, all-over zari bead motifs",
+      "difficulty": "Moderate",
+      "notes": "Distinct from the rudraksha border style since the motif covers the full body, not just the edge."
+    },
+    {
+      "name": "Kuyil Kann (Koel's Eye) Motif",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Daily to semi-formal wear",
+      "description": "A small teardrop or eye-shaped motif named after the koel bird's eye, usually repeated in rows across the body as a subtle all-over texture.",
+      "image": "https://tulsiweaves.com/uploads/products/img-11076728336a1990792259f9.72292365.jpg",
+      "materials": "Silk, fine zari eye motifs",
+      "difficulty": "Moderate",
+      "notes": "A more understated motif, popular for sarees meant for regular festive wear rather than bridal use."
+    },
+    {
+      "name": "Mango (Mangai) Motif",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Festive, semi-formal",
+      "description": "The paisley-like mango motif, a staple across Indian textile traditions, appears on the pallu or as a scattered body motif in Kanjeevarams.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwE74NUBKSyI5qkB1ix8xzDQyCBc6YOqk6mtPaJrySGK2NAPaF96hKcbE&s=10",
+      "materials": "Silk, zari mango motifs",
+      "difficulty": "Moderate",
+      "notes": "One of the most versatile motifs, found across many weaving centres beyond Kanchipuram too."
+    },
+    {
+      "name": "Checks and Stripes (Pattu Chex)",
+      "category": "Motif & Design Tradition",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Office wear, daily wear",
+      "description": "Simple geometric checks or stripes woven across the body with minimal zari work, designed for comfort and understated elegance in daily or office settings.",
+      "image": "https://shobitam.com/cdn/shop/files/SRI004_10.jpg?v=1752733109&width=1080",
+      "materials": "Silk, light zari checks/stripes",
+      "difficulty": "Low",
+      "notes": "The most affordable and lightweight category, often chosen for regular wear rather than special occasions."
+    }
+  ],
+  "Zari & Finish": [
+    {
+      "name": "Pure Zari (Real Gold/Silver Thread)",
+      "category": "Zari & Finish",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Bridal, heirloom",
+      "description": "Woven with genuine gold or silver-coated thread, these are the most valuable and heaviest Kanjeevarams, typically reserved for weddings and passed down as heirlooms.",
+      "image": "https://www.sampradayadesignerstudio.com/cdn/shop/articles/pure-zari-silk-saree-border_94026b0a-fdb8-4860-9d01-8ae9a5d0debd.png?v=1775408828",
+      "materials": "Silk, real gold/silver zari",
+      "difficulty": "High",
+      "notes": "Significantly more expensive; often purchased as an investment piece as much as an item of clothing."
+    },
+    {
+      "name": "Tested / Half-Fine Zari",
+      "category": "Zari & Finish",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Festive, wedding-adjacent functions",
+      "description": "Uses silver-coated copper thread instead of pure gold/silver, offering the look of traditional zari at a more accessible price point.",
+      "image": "https://www.jeyachandran.com/cdn/shop/files/Elegant_Kanchipuram_Pure_Silk_Saree_with_Fine_Micro_Checked_Weave_and_Traditional_Zari_Paisley_Border_-_Red.jpg?v=1764401962&width=1946",
+      "materials": "Silk, silver-coated copper zari",
+      "difficulty": "Moderate",
+      "notes": "The most common mid-range choice for buyers wanting an authentic look without bridal-level cost."
+    },
+    {
+      "name": "Art Silk Zari",
+      "category": "Zari & Finish",
+      "region": "Kanchipuram (mass-market variants)",
+      "occasion": "Daily wear, budget festive wear",
+      "description": "Uses synthetic zari and often blended silk, making it the most budget-friendly Kanjeevaram-style saree, common in mass-market retail.",
+      "image": "https://www.kumaransilksonline.com/cdn/shop/files/KSRTSR41566.jpg?v=1784372749",
+      "materials": "Art silk, synthetic zari",
+      "difficulty": "Low",
+      "notes": "Not considered a 'true' handloom Kanjeevaram by purists, but widely sold under the name for affordability."
+    }
+  ],
+  "Special & Heavier Categories": [
+    {
+      "name": "Bridal Kanjeevaram",
+      "category": "Special & Heavier Categories",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Wedding",
+      "description": "The heaviest and most elaborate category, combining dense pure zari work, contrast korvai borders, and a richly worked pallu. Often the centrepiece of a bride's trousseau.",
+      "image": "https://shobitam.com/cdn/shop/articles/BLJ3784_8_b7548f9d-d3cb-4fdf-8f23-5ff78f879712.jpg?v=1762173662",
+      "materials": "Pure silk, heavy real/tested zari, korvai border",
+      "difficulty": "High",
+      "notes": "Can weigh significantly more than everyday sarees due to the density of zari work."
+    },
+    {
+      "name": "Tissue Kanjeevaram",
+      "category": "Special & Heavier Categories",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Wedding, festive",
+      "description": "A fine gold or silver thread is woven through the body of the silk itself, giving the fabric a shimmering, almost translucent sheen distinct from standard zari-bordered designs.",
+      "image": "https://www.houseofvardha.in/cdn/shop/files/Off_White-Gold_Kanjivaram_Tissue_Silk_Saree_with_Zari_Weaving_Hand_Work-ST_3152_OFF_WHITE-1.jpg?v=1758117438&width=1080",
+      "materials": "Silk with gold/silver thread woven through body",
+      "difficulty": "High",
+      "notes": "Prized for its shimmer effect, which changes appearance depending on light and draping."
+    },
+    {
+      "name": "Bhutta / Butta Work",
+      "category": "Special & Heavier Categories",
+      "region": "Kanchipuram, Tamil Nadu",
+      "occasion": "Festive, semi-formal",
+      "description": "Small individual motifs (buttas) are woven one at a time and scattered evenly across the body of the saree, each requiring separate shuttle work.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLDeQDmCwBy2IdKDajhD5DOCUejXxRyqoLB2kg7GtuwFjaij14WSX86st&s=10",
+      "materials": "Silk, individually woven zari buttas",
+      "difficulty": "High",
+      "notes": "Labour-intensive since each motif is woven individually rather than as a continuous pattern."
+    }
+  ]
+}

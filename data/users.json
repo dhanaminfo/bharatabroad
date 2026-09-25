@@ -1,0 +1,37 @@
+[
+  {
+    "id": "201500cf-c0b9-40f2-a807-e721ea90ac7b",
+    "name": "Employee One",
+    "email": "employee@bharatabroad.com",
+    "passwordHash": "$2b$10$G4g0VtKcCTum5UpjD8FQROGZb3KFYwQ19.YMWwgf2gHzeRHrHDDpy",
+    "role": "EMPLOYEE"
+  },
+  {
+    "id": "63c5d6f4-0d17-46f7-91aa-11f716445d6e",
+    "name": "Admin One",
+    "email": "admin@bharatabroad.com",
+    "passwordHash": "$2b$10$Y2t91JD0oRVX8QOerNkb.e2wI2gnd74jMALwu/SYWPJdqhByfftVy",
+    "role": "ADMIN"
+  },
+  {
+    "id": "4c84f3b7-88b1-421c-9dc7-9f06371c3696",
+    "name": "Super Admin",
+    "email": "superadmin@bharatabroad.com",
+    "passwordHash": "$2b$10$JRHPaH5uKnIP.28CimbCNueChNt3nBNt5ae18hksFbKg7nGGg5Gj2",
+    "role": "SUPERADMIN"
+  },
+  {
+    "id": "4a44eda3-63f8-4d3a-892a-0b59d8ee8721",
+    "name": "employee2",
+    "email": "2employee@bharatabroad.com",
+    "passwordHash": "$2b$10$j85UP5EPXvJ/JE/A/ElkvuSnf0Rxt/cKqos2bdJp9H5zNWSDLa/g2",
+    "role": "ADMIN"
+  },
+  {
+    "id": "83685ced-c210-4a48-824a-1139641ec1a4",
+    "name": "Kannan RK",
+    "email": "Kannanrk@dhanaminfosys.com",
+    "passwordHash": "$2b$10$QbNaji5F0TtZq0/myZtDgO7VIHJRxxCW/hdpZih9xCBJWEjsTBZZW",
+    "role": "EMPLOYEE"
+  }
+]

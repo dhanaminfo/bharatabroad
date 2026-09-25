@@ -1,0 +1,55 @@
+{
+  "ads": [
+    {
+      "id": "ad-001",
+      "title": "Sample Banner Ad",
+      "image": "https://placehold.co/1200x120/1ABC9C/ffffff?text=Your+Advertisement+Here",
+      "link": "https://example.com",
+      "linkTarget": "_blank",
+      "alt": "Advertisement",
+      "active": true,
+      "slots": ["banner-top"],
+      "pages": ["home", "about", "services", "contact", "blog", "primary-care", "urgent-care", "virtual-care", "aesthetics", "fibroscan", "home-care"]
+    },
+    {
+      "id": "ad-002",
+      "title": "Sample Inline Ad",
+      "image": "https://placehold.co/1200x200/1B4F72/ffffff?text=Inline+Section+Advertisement",
+      "link": "https://example.com",
+      "linkTarget": "_blank",
+      "alt": "Advertisement",
+      "active": true,
+      "slots": ["inline-section"],
+      "pages": ["home", "about", "primary-care", "urgent-care", "virtual-care", "aesthetics", "fibroscan"]
+    },
+    {
+      "id": "ad-003",
+      "title": "Blog Card Ad 1",
+      "image": "https://placehold.co/400x250/C0392B/ffffff?text=Blog+Advertisement",
+      "link": "https://example.com",
+      "linkTarget": "_blank",
+      "alt": "Advertisement",
+      "active": true,
+      "slots": ["blog-card"],
+      "pages": ["blog"],
+      "blogPosition": 3
+    },
+    {
+      "id": "ad-004",
+      "title": "Blog Card Ad 2",
+      "image": "https://placehold.co/400x250/0E8A70/ffffff?text=Blog+Advertisement",
+      "link": "https://example.com",
+      "linkTarget": "_blank",
+      "alt": "Advertisement",
+      "active": true,
+      "slots": ["blog-card"],
+      "pages": ["blog"],
+      "blogPosition": 6
+    }
+  ],
+  "settings": {
+    "adminPassword": "lifesmart2026",
+    "showAdsOnMobile": true,
+    "adLabel": "Advertisement"
+  }
+}

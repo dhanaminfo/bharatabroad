@@ -1,0 +1,118 @@
+{
+  "Fit & Silhouette": [
+    {
+      "name": "Classic Churidar",
+      "category": "Fit & Silhouette",
+      "region": "North India, Pan-India",
+      "occasion": "Daily wear, semi-formal, festive",
+      "description": "The original tight-fitting bottom cut on the bias with extra length so the fabric gathers into soft bangle-like folds (churis) around the ankle. Worn under kurtas, Anarkalis, and short kameez.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Churidar pants.jpg",
+      "materials": "Cotton, viscose, or silk blend",
+      "difficulty": "Moderate",
+      "notes": "The bias-cut construction is what allows the fabric to gather rather than bunch awkwardly at the ankle."
+    },
+    {
+      "name": "Straight-Fit Churidar",
+      "category": "Fit & Silhouette",
+      "region": "Pan-India",
+      "occasion": "Office wear, daily wear",
+      "description": "A more relaxed, less body-hugging version of the churidar that skips the extreme ankle gathering for a straighter, easier fit while still tapering slightly at the bottom.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Straight fit churidar.jpg",
+      "materials": "Cotton, linen blends",
+      "difficulty": "Low",
+      "notes": "A common choice for everyday and workplace wear where the traditional snug fit isn't necessary."
+    },
+    {
+      "name": "Ankle-Length Churidar",
+      "category": "Fit & Silhouette",
+      "region": "Pan-India, contemporary fusion wear",
+      "occasion": "Casual, office wear",
+      "description": "Cut to end precisely at the ankle without the extra length needed for bangle folds, giving a cleaner, more modern silhouette closer to a fitted trouser.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ankle length churidar.jpg",
+      "materials": "Cotton, stretch cotton blends",
+      "difficulty": "Low",
+      "notes": "Popular in contemporary Indo-Western styling paired with short kurtis and tunics."
+    }
+  ],
+  "Fabric & Construction": [
+    {
+      "name": "Cotton Churidar",
+      "category": "Fabric & Construction",
+      "region": "Pan-India",
+      "occasion": "Daily wear, summer wear",
+      "description": "Made from breathable cotton, the most common and practical churidar fabric for everyday wear, especially in warmer climates.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cotton churidar.jpg",
+      "materials": "100% cotton or cotton-blend",
+      "difficulty": "Low",
+      "notes": "The default choice for daily wear due to comfort and washability."
+    },
+    {
+      "name": "Silk Churidar",
+      "category": "Fabric & Construction",
+      "region": "North India, festive wear markets",
+      "occasion": "Festive, semi-formal functions",
+      "description": "Cut from silk or silk-blend fabric to match festive kameez and Anarkali tops, offering a sheen and drape more suited to special occasions than daily cotton churidars.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Silk churidar.jpg",
+      "materials": "Silk or art-silk blend",
+      "difficulty": "Moderate",
+      "notes": "Usually stitched as part of a matching festive suit set rather than sold standalone."
+    },
+    {
+      "name": "Stretch/Lycra Churidar",
+      "category": "Fabric & Construction",
+      "region": "Pan-India, contemporary retail",
+      "occasion": "Daily wear, office wear",
+      "description": "Blended with lycra or spandex for added stretch, allowing the tight ankle fit to be achieved without the traditional bias-cut tailoring, and making it easier to move in.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stretch churidar leggings.jpg",
+      "materials": "Cotton-lycra or viscose-lycra blend",
+      "difficulty": "Low",
+      "notes": "Has largely replaced the traditional bias-cut construction in mass-market ready-to-wear churidars."
+    },
+    {
+      "name": "Patiala-Style Churidar Fusion",
+      "category": "Fabric & Construction",
+      "region": "Punjab (fusion with Patiala salwar)",
+      "occasion": "Casual to semi-formal wear",
+      "description": "Combines the loose, pleated volume of a Patiala salwar in the upper thigh with a churidar-style gathered taper at the ankle, blending two Punjabi bottom-wear traditions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patiala churidar fusion.jpg",
+      "materials": "Cotton or cotton-silk blend",
+      "difficulty": "Moderate",
+      "notes": "A hybrid style that gives the drama of a Patiala salwar with the fitted ankle of a churidar."
+    }
+  ],
+  "Embellishment & Detailing": [
+    {
+      "name": "Embroidered Ankle Churidar",
+      "category": "Embellishment & Detailing",
+      "region": "Lucknow, North India",
+      "occasion": "Festive, wedding functions",
+      "description": "Features chikankari, zari, or thread embroidery concentrated around the ankle opening where the bangle folds gather, adding a decorative detail that shows even under a longer kameez.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Embroidered churidar ankle.jpg",
+      "materials": "Cotton or silk, hand or machine embroidery at hem",
+      "difficulty": "Moderate",
+      "notes": "The embroidery is placed specifically to be visible in the folds when the churidar bunches at the ankle."
+    },
+    {
+      "name": "Printed Churidar",
+      "category": "Embellishment & Detailing",
+      "region": "Pan-India",
+      "occasion": "Daily wear, casual festive",
+      "description": "Carries block-print, digital print, or ikat-style patterns matching or contrasting with the kameez, offering visual interest without the cost of embroidery.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Printed churidar.jpg",
+      "materials": "Cotton, block print or digital print",
+      "difficulty": "Low",
+      "notes": "A budget-friendly way to coordinate patterns across a two-piece or three-piece suit set."
+    },
+    {
+      "name": "Plain/Solid Churidar",
+      "category": "Embellishment & Detailing",
+      "region": "Pan-India",
+      "occasion": "Daily wear, office wear",
+      "description": "A single solid colour with no embellishment, designed to be paired under heavily worked kurtas or Anarkalis so the bottom stays understated while the top carries the visual detail.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Plain churidar.jpg",
+      "materials": "Cotton, viscose",
+      "difficulty": "Low",
+      "notes": "The most versatile churidar type, meant to be worn under many different kameez styles."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "Silhouette & Length": [
+    {
+      "name": "Floor-Length Anarkali",
+      "category": "Silhouette & Length",
+      "region": "Hyderabad, Lucknow, North India",
+      "occasion": "Wedding, reception, festive",
+      "description": "The most dramatic Anarkali silhouette, falling all the way to the floor with a heavily flared skirt panel gathered from the waist. Named after the legendary courtesan Anarkali, this style creates maximum sweep and movement while walking.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXM88w5nPyEXyhnD1t47sKcrPichy-M-NqeXzXwolrXBNDPtPtj02ojTDI&s=10",
+      "materials": "Georgette, silk, or velvet with heavy embroidery panels",
+      "difficulty": "High",
+      "notes": "Requires the most fabric of any Anarkali style; often paired with a matching dupatta and churidar."
+    },
+    {
+      "name": "Calf-Length Anarkali",
+      "category": "Silhouette & Length",
+      "region": "North India, Pakistan",
+      "occasion": "Semi-formal, day functions, office festive wear",
+      "description": "Falls to mid-calf, offering the flare and silhouette of a classic Anarkali with easier movement and a more contemporary, wearable length.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHs0i8EluTwJF977z_JDzykkWBcckr1tHQ38BZaKFFXz5Buysn4bEgAkb&s=10",
+      "materials": "Cotton, chanderi, or light silk",
+      "difficulty": "Moderate",
+      "notes": "A popular choice for daytime festive events like Eid or Diwali visits where floor-length movement isn't practical."
+    },
+    {
+      "name": "Knee-Length Anarkali (Anarkali Kurti)",
+      "category": "Silhouette & Length",
+      "region": "Pan-India, diaspora fusion wear",
+      "occasion": "Casual festive, office wear, college functions",
+      "description": "A shortened, everyday version of the Anarkali silhouette, worn as a kurti with leggings, palazzos, or churidars. Retains the flared gather at the waist but in a far more casual, low-maintenance form.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCNRlJKBKrNHJfJiJJzJfxl2cmAbYUA7bSWskqXFbMA&s=10",
+      "materials": "Cotton, rayon, printed fabrics",
+      "difficulty": "Low",
+      "notes": "The most commercially popular Anarkali variant today due to comfort and versatility."
+    },
+    {
+      "name": "Double-Layer (Umbrella) Anarkali",
+      "category": "Silhouette & Length",
+      "region": "Hyderabad, Lucknow",
+      "occasion": "Wedding, reception",
+      "description": "Two layered panels — often in contrasting colours or fabrics — are stitched to create extreme flare resembling an open umbrella, giving dramatic volume when spinning or walking.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpgvYLTLtDsBunIW6J9ry8dMDbCoGhx-v7FXDak0_OTu1gG40KT-MAr2yk&s=10",
+      "materials": "Net over silk, layered georgette",
+      "difficulty": "High",
+      "notes": "Favoured for sangeet and reception functions where movement on the dance floor matters."
+    }
+  ],
+  "Fabric & Craft Tradition": [
+    {
+      "name": "Chikankari Anarkali",
+      "category": "Fabric & Craft Tradition",
+      "region": "Lucknow, Uttar Pradesh",
+      "occasion": "Eid, semi-formal, summer festive wear",
+      "description": "Delicate white-on-white or pastel shadow-work embroidery, hand-done using the traditional Lucknawi chikankari technique, covering the yoke and body in fine floral and paisley motifs.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvl6YS39HgStsq57X0ChTjMqOaI58jVUwcv0DbwcDrmnL-7gVM5UYZJE&s=10",
+      "materials": "Fine cotton or georgette, hand chikankari thread work",
+      "difficulty": "High",
+      "notes": "Prized for its lightness and breathability, making it a favoured choice for summer and Ramzan/Eid wear."
+    },
+    {
+      "name": "Zardozi & Gota Patti Anarkali",
+      "category": "Fabric & Craft Tradition",
+      "region": "Hyderabad, Rajasthan, Delhi",
+      "occasion": "Wedding, bridal functions",
+      "description": "Heavy metallic zari, gold/silver thread, and gota patti appliqué work cover the bodice and hemline, giving a regal, Nizami-court-inspired richness typical of Hyderabadi Anarkalis.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFSye8ze-bcMkmVytDUmjP90l1ZXyxZA9t23veM41QKMpxE8Ty0jlEj0&s=10",
+      "materials": "Silk or velvet, zardozi and gota patti embroidery",
+      "difficulty": "High",
+      "notes": "Among the heaviest and most expensive Anarkali variants; commonly seen at Hyderabadi and Lucknowi weddings."
+    },
+    {
+      "name": "Mirror-Work (Sheesha) Anarkali",
+      "category": "Fabric & Craft Tradition",
+      "region": "Gujarat, Rajasthan",
+      "occasion": "Navratri, sangeet, festive wear",
+      "description": "Small mirror discs are embroidered across the body and sleeves in geometric patterns, drawing on Kutch and Rajasthani mirror-work traditions for a sparkling, folk-inspired look.",
+      "image": "https://i.pinimg.com/736x/d4/93/02/d4930266df6016d73e641f274f2cbcea.jpg",
+      "materials": "Cotton or silk, mirror (sheesha) embroidery",
+      "difficulty": "Moderate",
+      "notes": "Especially popular for Navratri and garba-adjacent festive functions."
+    },
+    {
+      "name": "Banarasi Silk Anarkali",
+      "category": "Fabric & Craft Tradition",
+      "region": "Varanasi, Uttar Pradesh",
+      "occasion": "Wedding, festive",
+      "description": "Cut from Banarasi brocade fabric with its signature woven gold zari motifs, adapting the traditional saree textile into the flared Anarkali silhouette.",
+      "image": "https://banarasweavesclothing.com/cdn/shop/products/image_b70460b6-34df-4654-8192-ec295b12a716_1024x1024@2x.jpg?v=1571332726",
+      "materials": "Banarasi silk brocade with woven zari",
+      "difficulty": "High",
+      "notes": "A newer fusion trend that repurposes classic saree weaving traditions into suit form."
+    },
+    {
+      "name": "Printed / Block-Print Anarkali",
+      "category": "Fabric & Craft Tradition",
+      "region": "Rajasthan (Jaipur, Bagru, Sanganer)",
+      "occasion": "Daily wear, casual festive",
+      "description": "Hand block-printed or digitally printed floral and geometric patterns on cotton, offering a lightweight, breathable Anarkali suited to everyday and warm-weather wear.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Block print anarkali suit.jpg",
+      "materials": "Cotton, block-print or digital print",
+      "difficulty": "Low",
+      "notes": "The most affordable and widely available Anarkali category in retail and online markets."
+    }
+  ],
+  "Neckline & Sleeve Style": [
+    {
+      "name": "Boat Neck Anarkali",
+      "category": "Neckline & Sleeve Style",
+      "region": "Pan-India",
+      "occasion": "Party wear, reception",
+      "description": "A wide, horizontal boat-shaped neckline that sits along the collarbone, often paired with three-quarter or full sleeves and heavy embellishment concentrated on the yoke.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHFNqMw1yKEboe89UQPmiSmaVwAnurit1XCdnnmD_79Cu-iLx7NAzlw&s=10",
+      "materials": "Silk, georgette, net",
+      "difficulty": "Moderate",
+      "notes": "A popular choice for contemporary designer Anarkalis seen at receptions and cocktail functions."
+    },
+    {
+      "name": "Angrakha-Style Anarkali",
+      "category": "Neckline & Sleeve Style",
+      "region": "Mughal-era North India",
+      "occasion": "Wedding, sangeet, festive",
+      "description": "Features an asymmetric, wrap-style front closure inspired by Mughal angrakha coats, tied at the side rather than a straight front opening, adding a layered, regal drape to the bodice.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXmVj0wBdcyZtR-QohNSia3OF3Ca_EW4XIp4kr6Ni_u56bVsmAqYP__OA&s=10",
+      "materials": "Silk, velvet, brocade",
+      "difficulty": "High",
+      "notes": "Draws directly on Mughal court dress, making it one of the more historically rooted Anarkali variants."
+    },
+    {
+      "name": "Sleeveless Anarkali",
+      "category": "Neckline & Sleeve Style",
+      "region": "Pan-India, contemporary designer wear",
+      "occasion": "Cocktail, reception, party wear",
+      "description": "A modern adaptation with no sleeves or thin straps, often layered with a separate embellished jacket or cape, giving a fusion-forward take on the traditional silhouette.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTaZlMHPyxz7W1D2MrYt7QN3wxaQ2mDnbE26pZnH9kzi1hH5pahrV9Mz_X&s=10",
+      "materials": "Net, georgette, satin",
+      "difficulty": "Moderate",
+      "notes": "Common in contemporary designer lines aimed at younger, fusion-wear buyers."
+    }
+  ],
+  "Regional & Bridal Variants": [
+    {
+      "name": "Hyderabadi Nizami Anarkali",
+      "category": "Regional & Bridal Variants",
+      "region": "Hyderabad, Telangana",
+      "occasion": "Wedding, walima, festive",
+      "description": "Deeply influenced by Nizami court dress, combining rich velvet or silk bases with dense zardozi, kamdani, and pearl work, often in jewel tones like maroon, emerald, and royal blue.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sJ94PSbegFeQFLIgHHzHioQek101FGTUlQE9rzuECflJidhSZ6p2Feo&s=10",
+      "materials": "Velvet or silk, zardozi, pearl and kamdani work",
+      "difficulty": "High",
+      "notes": "Closely associated with Hyderabadi Muslim wedding trousseaus."
+    },
+    {
+      "name": "Lucknowi Anarkali",
+      "category": "Regional & Bridal Variants",
+      "region": "Lucknow, Uttar Pradesh",
+      "occasion": "Eid, nikah, festive gatherings",
+      "description": "Defined by fine chikankari and delicate pastel palettes, reflecting the understated elegance associated with Awadhi (Lucknowi) courtly fashion rather than heavy embellishment.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwla5zSDoHrvHhzrfiR6tDZokJaGzPJgudZrtMiopcEC6JHeZ7iIwWHvj&s=10",
+      "materials": "Cotton or georgette, chikankari, pastel dyes",
+      "difficulty": "Moderate",
+      "notes": "Known for restraint and craftsmanship over sheer volume of embellishment."
+    },
+    {
+      "name": "Punjabi Anarkali",
+      "category": "Regional & Bridal Variants",
+      "region": "Punjab",
+      "occasion": "Sangeet, festive, family functions",
+      "description": "Bright, saturated colours combined with phulkari-inspired embroidery or thread work, paired typically with a contrasting dupatta and statement jewellery.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JUdPX9-GDvUgFWTbM8kH8bzUL2XTgTZ5a2sZWil23g&s",
+      "materials": "Silk or cotton, phulkari-style thread embroidery",
+      "difficulty": "Moderate",
+      "notes": "Reflects Punjab's love of bold colour combinations and festive thread embroidery."
+    },
+    {
+      "name": "Bridal Heavy Anarkali",
+      "category": "Regional & Bridal Variants",
+      "region": "North India, Pakistan",
+      "occasion": "Wedding, reception",
+      "description": "The most elaborate bridal category, combining a floor-length flared silhouette with dense embroidery across the entire body, a heavily worked dupatta, and often a trailing train.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0I8hKlX6ynXliAnqnkar1a_x_FZzGcvaX5DSh47ZVWz7uv3_KgeMNYqI&s=10",
+      "materials": "Silk or velvet, dense zardozi, sequins, stone work",
+      "difficulty": "High",
+      "notes": "Frequently chosen as an alternative to a lehenga for the wedding or reception function, especially in North Indian and Pakistani bridal traditions."
+    }
+  ]
+}

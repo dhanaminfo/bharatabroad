@@ -1,0 +1,54 @@
+[
+  {
+    "id": "427055b9-8685-4523-acfb-0d5331998f65",
+    "title": "New H-1B Visa Fee Structure Takes Effect Next Quarter",
+    "leadImage": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=80",
+    "description": "US immigration authorities have confirmed updated fee tiers for H-1B visa applications, with sponsoring employers facing higher costs for expedited processing. Immigration attorneys are advising applicants to file early ahead of the new structure kicking in.",
+    "pages": ["immigration"],
+    "status": "PUBLISHED",
+    "rejectReason": null,
+    "authorId": "sample-seed",
+    "authorName": "BharatAbroad Desk",
+    "createdAt": "2026-09-15T22:50:13.800138Z",
+    "updatedAt": "2026-09-15T22:50:13.800138Z"
+  },
+  {
+    "id": "68792385-0c60-4b5b-8928-f47bda216f86",
+    "title": "Team India Clinches Series Win in Thrilling Final Over Finish",
+    "leadImage": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800&q=80",
+    "description": "A last-ball six sealed a dramatic series victory for India, sending fans across the diaspora into celebration. The result caps off a hard-fought tour marked by strong individual performances and a resurgent bowling attack.",
+    "pages": ["sport"],
+    "status": "PUBLISHED",
+    "rejectReason": null,
+    "authorId": "sample-seed",
+    "authorName": "BharatAbroad Desk",
+    "createdAt": "2026-09-15T19:50:13.800138Z",
+    "updatedAt": "2026-09-15T19:50:13.800138Z"
+  },
+  {
+    "id": "826fe321-5dd0-45d4-8de0-db3001e943c2",
+    "title": "Indian Startups Lead a Wave of AI Adoption in Healthcare",
+    "leadImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80",
+    "description": "A new wave of India-founded startups is applying AI diagnostics to rural healthcare gaps, with several raising fresh funding rounds this quarter. Industry watchers say the sector could see rapid international expansion over the next two years.",
+    "pages": ["technology", "health"],
+    "status": "PUBLISHED",
+    "rejectReason": null,
+    "authorId": "sample-seed",
+    "authorName": "BharatAbroad Desk",
+    "createdAt": "2026-09-15T16:50:13.800138Z",
+    "updatedAt": "2026-09-15T16:50:13.800138Z"
+  },
+  {
+    "id": "2e4330f1-2603-46ab-91a4-f6cac3268745",
+    "title": "test",
+    "leadImage": "/uploads/3342cf02-cb31-402e-a8e5-574e0b4494bd.jpg",
+    "description": "test content",
+    "pages": ["sport", "immigration"],
+    "status": "PUBLISHED",
+    "rejectReason": null,
+    "authorId": "201500cf-c0b9-40f2-a807-e721ea90ac7b",
+    "authorName": "Employee One",
+    "createdAt": "2026-09-16T02:10:38.771Z",
+    "updatedAt": "2026-09-16T02:23:17.942Z"
+  }
+]

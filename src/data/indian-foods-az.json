@@ -1,0 +1,1876 @@
+{
+  "sections": [
+    {
+      "letter": "A",
+      "subtitle": "Aromas that awaken the senses",
+      "foods": [
+        {
+          "name": "Aloo Paratha",
+          "region": "Punjab",
+          "description": "Whole wheat flatbread stuffed with spiced mashed potatoes, cooked on a tawa with generous ghee.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aloo_paratha.jpg",
+          "ingredients": ["2 cups whole wheat flour", "3 medium potatoes (boiled & mashed)", "1 tsp cumin seeds", "1 tsp red chili powder", "1 tsp garam masala", "2 tbsp coriander leaves", "1 tsp grated ginger", "Salt to taste", "Ghee for cooking"],
+          "preparation": ["Boil and mash potatoes. Mix with all spices and coriander.", "Knead wheat flour with water into soft dough. Rest 20 mins.", "Stuff dough balls with potato mix, seal and roll into flatbreads.", "Cook on hot tawa 2 mins each side with generous ghee.", "Serve hot with yogurt and pickle."],
+          "youtube": "https://www.youtube.com/watch?v=6JGQawoXQl4",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Aloo Gobi",
+          "region": "North India",
+          "description": "Dry stir-fried cauliflower and potatoes with turmeric and cumin — a simple, beloved weekday staple.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aloo_gobi.jpg",
+          "ingredients": ["2 potatoes (cubed)", "1 cauliflower (florets)", "1 onion (sliced)", "1 tsp turmeric", "1 tsp cumin seeds", "1 tsp coriander powder", "1/2 tsp garam masala", "2 tbsp oil", "Salt to taste", "Fresh coriander"],
+          "preparation": ["Heat oil, temper cumin seeds until they splutter.", "Add onions and sauté until translucent.", "Add potatoes, cook 5 mins. Add cauliflower and turmeric.", "Add all dry spices and salt. Stir well.", "Cover and cook on low 15 mins until tender. Garnish with coriander."],
+          "youtube": "https://www.youtube.com/watch?v=lXMY6rC3dVA",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Achari Paneer",
+          "region": "Rajasthan",
+          "description": "Cottage cheese in a tangy pickle-spiced gravy with mustard, fennel and dried red chilies.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Achari_Paneer.jpg",
+          "ingredients": ["250g paneer (cubed)", "1 tsp mustard seeds", "1 tsp fennel seeds", "1/2 tsp nigella seeds", "2 dried red chilies", "1 cup yogurt", "1 tsp achari masala", "1 tsp turmeric", "2 tbsp oil", "Salt to taste"],
+          "preparation": ["Heat oil, add mustard, fennel, nigella and dried chilies.", "Once seeds splutter, sauté onions golden.", "Add ginger-garlic paste, then yogurt and achari masala.", "Simmer until oil separates. Add paneer cubes.", "Cook 5 mins on low. Garnish and serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=XQ2fEp4NHZU",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Aamras",
+          "region": "Gujarat / Maharashtra",
+          "description": "Smooth, sweetened Alphonso mango pulp served with hot puris — a summer celebration dish.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSm1zNI2TJ7-c_KBdcIIbPpSfvEIl7cf_yUBJTye4-dzb3b_0jQ9b39Ae6Z0j7--rYUo2cwzR0QzQzeUFuxDEc7qHl0ZyxBIYqvrtYh8&s=10",
+          "ingredients": ["4 ripe Alphonso mangoes", "3 tbsp sugar", "1/4 tsp cardamom powder", "A pinch of saffron", "2 tbsp warm milk", "Tiny pinch of salt"],
+          "preparation": ["Soak saffron in warm milk for 10 mins.", "Peel mangoes and blend all pulp until smooth.", "Add sugar, cardamom and saffron milk. Blend again.", "Chill for 30 mins before serving.", "Serve cold alongside hot puris or as a dessert."],
+          "youtube": "https://www.youtube.com/watch?v=LJMCKVmKsFI",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Appam",
+          "region": "Kerala",
+          "description": "Soft lacy rice pancakes with crispy edges and a fluffy center — a beloved Kerala breakfast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Appam_with_coconut_milk.jpg",
+          "ingredients": ["2 cups raw rice (soaked 6 hrs)", "1/2 cup grated coconut", "1/4 cup cooked rice", "1 tsp dry yeast", "1 tsp sugar", "Salt to taste", "Coconut milk to serve"],
+          "preparation": ["Grind soaked rice, coconut and cooked rice to a smooth batter.", "Add dissolved yeast and sugar. Ferment overnight.", "Heat an appam pan, pour one ladle and swirl to spread.", "Cover and cook 2 mins — edges crisp, centre stays soft.", "Serve with coconut milk or vegetable stew."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "20 mins (+overnight)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Avial",
+          "region": "Kerala",
+          "description": "Mixed vegetables in a coconut-yogurt sauce — an aromatic staple of every traditional Kerala feast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avial.jpg",
+          "ingredients": ["2 cups mixed vegetables (raw banana, yam, carrot, drumstick)", "1 cup grated coconut", "3 green chilies", "1 tsp cumin seeds", "1/2 cup yogurt", "Curry leaves", "1 tsp coconut oil", "Salt and turmeric"],
+          "preparation": ["Cook vegetables in salted water with turmeric until tender.", "Grind coconut, cumin and green chilies to coarse paste.", "Mix coconut paste into cooked vegetables over low heat.", "Remove from heat and stir in beaten yogurt.", "Finish with curry leaves and drizzle of coconut oil."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "35 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "B",
+      "subtitle": "Bold flavours from every corner",
+      "foods": [
+        {
+          "name": "Butter Chicken",
+          "region": "Delhi",
+          "description": "Tender chicken in a rich, creamy tomato-based sauce — India's most beloved dish worldwide.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Butter_Chicken.jpg",
+          "ingredients": ["500g boneless chicken", "1 cup yogurt", "2 tbsp butter", "1 cup tomato puree", "1/2 cup heavy cream", "1 tbsp ginger-garlic paste", "1 tsp garam masala", "1 tsp kashmiri chili powder", "1 tbsp kasuri methi", "Salt to taste"],
+          "preparation": ["Marinate chicken in yogurt, ginger-garlic paste and chili powder 2 hrs.", "Grill or pan-fry until slightly charred. Set aside.", "Sauté onions in butter, add tomato puree and spices.", "Blend sauce smooth, return to pan, add chicken.", "Simmer 10 mins. Stir in cream and kasuri methi."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "45 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Biryani",
+          "region": "Hyderabad",
+          "description": "Fragrant basmati rice layered with spiced meat and slow-cooked on dum — the king of Indian rice dishes.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Biryani_at_Hyderabad.jpg",
+          "ingredients": ["2 cups basmati rice", "500g chicken", "1 cup yogurt", "2 onions (fried golden)", "Whole spices: bay leaf, cloves, cardamom", "1 tbsp biryani masala", "Saffron in warm milk", "Fresh mint and coriander", "4 tbsp ghee", "Salt to taste"],
+          "preparation": ["Marinate chicken with yogurt, biryani masala and fried onions for 1 hr.", "Parboil rice with whole spices until 70% cooked. Drain.", "Layer chicken then rice, mint, coriander, saffron milk.", "Seal pot and dum cook on low heat 25 mins.", "Open, gently mix and serve with raita."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Bhel Puri",
+          "region": "Mumbai",
+          "description": "Tangy, crunchy puffed rice with vegetables and chutneys — the iconic taste of Mumbai's beaches.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhel_puri_at_Juhu_beach.jpg",
+          "ingredients": ["2 cups puffed rice (murmura)", "1/2 cup sev", "1 onion (finely chopped)", "2 tomatoes (chopped)", "1 boiled potato (cubed)", "2 tbsp tamarind chutney", "2 tbsp green chutney", "1 tsp chaat masala", "Fresh coriander"],
+          "preparation": ["Mix chutneys in a large bowl with onion, tomato and potato.", "Add puffed rice just before serving to keep it crunchy.", "Toss quickly with chaat masala and salt.", "Top with sev and fresh coriander.", "Serve immediately in paper cones."],
+          "youtube": "https://www.youtube.com/watch?v=G3KoSRzPTWU",
+          "prepTime": "10 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Baingan Bharta",
+          "region": "Punjab",
+          "description": "Smoky roasted eggplant mashed and cooked with onions and tomatoes — rustic, earthy perfection.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baingan_Bharta.jpg",
+          "ingredients": ["2 large eggplants", "2 onions (finely chopped)", "2 tomatoes (chopped)", "1 tbsp ginger-garlic paste", "1 tsp cumin seeds", "1 tsp coriander powder", "1 tsp red chili powder", "1/2 tsp garam masala", "3 tbsp oil", "Fresh coriander"],
+          "preparation": ["Roast eggplants directly over flame until charred all over.", "Peel burnt skin and mash flesh roughly.", "Heat oil, temper cumin. Sauté onions golden, add tomatoes.", "Add spices, cook until mushy. Add eggplant.", "Cook 8 mins on medium. Garnish and serve with roti."],
+          "youtube": "https://www.youtube.com/watch?v=JJO3k4RIQVI",
+          "prepTime": "35 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Besan Chilla",
+          "region": "Rajasthan",
+          "description": "Savoury gram flour pancakes loaded with vegetables — a quick, protein-rich Indian breakfast.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVYCt5MEIxM-ZBcsjJr6MXl6o3EzJClL4sQ&s",
+          "ingredients": ["1 cup besan (gram flour)", "1 onion (chopped)", "1 tomato (chopped)", "2 green chilies", "1/4 tsp turmeric", "1/2 tsp red chili powder", "1/2 tsp cumin", "Fresh coriander", "Water to make batter", "Oil for cooking"],
+          "preparation": ["Mix besan with spices and salt. Add water gradually to smooth batter.", "Fold in onions, tomatoes, green chilies and coriander.", "Heat non-stick pan, pour a ladle and spread thin.", "Cook 2 mins until golden, flip and cook 1 min more.", "Serve with green chutney."],
+          "youtube": "https://www.youtube.com/watch?v=t6KQFU1KBQE",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Badam Halwa",
+          "region": "Tamil Nadu",
+          "description": "Rich, fudgy almond sweet cooked in ghee and saffron — a festive South Indian delicacy.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Badam_halwa.jpg",
+          "ingredients": ["1 cup blanched almonds (ground)", "1 cup sugar", "1/2 cup ghee", "1/4 cup milk", "1/4 tsp cardamom powder", "A pinch of saffron", "2 tbsp warm water"],
+          "preparation": ["Soak saffron in warm water for 10 mins.", "Heat ghee in heavy pan, add almond paste.", "Stir continuously 10 mins until golden and fragrant.", "Add sugar and milk. Keep stirring until ghee releases from sides.", "Add cardamom and saffron. Serve warm garnished with almonds."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "30 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "C",
+      "subtitle": "Cherished classics and street food gems",
+      "foods": [
+        {
+          "name": "Chole Bhature",
+          "region": "Punjab",
+          "description": "Spicy chickpea curry with deep-fried fluffy bread — the ultimate North Indian street food.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chole_bhature.jpg",
+          "ingredients": ["2 cups chickpeas (soaked overnight)", "2 onions", "2 tomatoes (pureed)", "2 tbsp chole masala", "1 tsp amchur", "2 cups all-purpose flour", "1/2 cup yogurt", "Oil for frying", "Salt to taste"],
+          "preparation": ["Pressure cook chickpeas with salt for 4 whistles.", "Sauté onions golden, add tomato puree and spices.", "Simmer chickpeas in gravy 15 mins.", "Knead bhature dough with yogurt, rest 1 hr, fry until puffed.", "Serve together with onions and chutneys."],
+          "youtube": "https://www.youtube.com/watch?v=8a3mPyLqnEE",
+          "prepTime": "1 hr",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "region": "Pan-India",
+          "description": "Grilled chicken tikkas in a velvety spiced tomato-cream sauce — a global ambassador of Indian cuisine.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_tikka_masala.jpg",
+          "ingredients": ["500g chicken (cubed)", "1 cup yogurt", "1 tbsp tikka masala", "1 cup tomato puree", "1/2 cup cream", "1 tbsp butter", "Kasuri methi", "Ginger-garlic paste", "Red chili powder", "Salt to taste"],
+          "preparation": ["Marinate chicken with yogurt and tikka masala for 2 hrs.", "Thread on skewers and grill until charred and cooked through.", "Make smooth tomato-cream sauce with butter and spices.", "Add grilled chicken to sauce. Simmer 10 mins.", "Finish with kasuri methi and serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "50 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Coconut Chutney",
+          "region": "South India",
+          "description": "Fresh coconut ground with green chilies, tempered with mustard seeds — the soul of South Indian breakfast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coconut_chutney.jpg",
+          "ingredients": ["1 cup fresh grated coconut", "3 green chilies", "1 inch ginger", "1/4 cup roasted chana dal", "Salt to taste", "Mustard seeds, curry leaves, dried red chili, oil (tempering)"],
+          "preparation": ["Grind coconut, green chilies, ginger and chana dal with water.", "Blend to smooth creamy paste. Season with salt.", "Heat oil, splutter mustard seeds, add dried chili and curry leaves.", "Pour tempering over chutney and mix.", "Serve fresh alongside dosa, idli or uttapam."],
+          "youtube": "https://www.youtube.com/watch?v=1Mzr1bPfkRg",
+          "prepTime": "10 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Chai",
+          "region": "Pan-India",
+          "description": "Spiced milk tea brewed with cardamom, ginger and cinnamon — a daily ritual in every Indian home.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Masala_Chai.jpg",
+          "ingredients": ["1.5 cups water", "1 cup whole milk", "2 tsp black tea leaves", "3 green cardamom pods (crushed)", "1/2 inch ginger (grated)", "1 cinnamon stick", "2 cloves", "Sugar to taste"],
+          "preparation": ["Add water to saucepan with ginger, cardamom, cinnamon and cloves.", "Bring to boil and simmer 3 mins to infuse spices.", "Add tea leaves and simmer 2 more mins.", "Pour in milk, bring to boil. Simmer 2 mins, add sugar.", "Strain through fine sieve into cups and serve hot."],
+          "youtube": "https://www.youtube.com/watch?v=YEQjjnvNOcU",
+          "prepTime": "10 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Chaat Papdi",
+          "region": "Delhi",
+          "description": "Crispy fried discs with chickpeas, potatoes, chutneys and yogurt — a symphony of Indian flavours.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Papdi_Chaat.jpg",
+          "ingredients": ["20 papdi (crispy discs)", "1 cup boiled chickpeas", "2 boiled potatoes (cubed)", "1 cup whisked yogurt", "3 tbsp tamarind chutney", "3 tbsp green chutney", "1 tsp chaat masala", "Sev and coriander for topping"],
+          "preparation": ["Arrange papdis in a single layer on a serving plate.", "Place chickpeas and potato on each papdi.", "Drizzle generous yogurt over everything.", "Add tamarind chutney then green chutney.", "Sprinkle chaat masala, top with sev and coriander."],
+          "youtube": "https://www.youtube.com/watch?v=4uS6P5bFfnI",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Chana Dal",
+          "region": "Pan-India",
+          "description": "Split Bengal gram cooked until tender with aromatic spices and a smoky tadka — comforting everyday dal.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chana_dal.jpg",
+          "ingredients": ["1 cup chana dal (split Bengal gram)", "1 onion (chopped)", "2 tomatoes (chopped)", "1 tsp cumin seeds", "1/2 tsp turmeric", "1 tsp coriander powder", "1 tsp red chili powder", "1 tsp garam masala", "2 tbsp ghee", "Fresh coriander"],
+          "preparation": ["Pressure cook soaked chana dal with turmeric for 3 whistles.", "Heat ghee, temper cumin. Sauté onions golden.", "Add tomatoes and all spices. Cook until mushy.", "Add cooked dal. Simmer 10 mins, adjust consistency.", "Serve with rice or roti with a drizzle of ghee."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "35 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "subtitle": "Delights from dosa to dum",
+      "foods": [
+        {
+          "name": "Dosa",
+          "region": "Tamil Nadu",
+          "description": "Crispy golden fermented rice and lentil crepe served with sambar and coconut chutney — South India's icon.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Plain_dosa.jpg",
+          "ingredients": ["2 cups raw rice", "1/2 cup urad dal", "1/4 tsp fenugreek seeds", "Salt to taste", "Oil for cooking", "Sambar and chutney to serve"],
+          "preparation": ["Soak rice, urad dal and fenugreek separately for 6–8 hrs.", "Grind urad dal to fluffy batter, rice to slightly coarse batter.", "Combine batters with salt. Ferment overnight.", "Heat tawa, pour ladle and spread in circles. Drizzle oil.", "Cook until crispy and golden. Fold and serve."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "20 mins (+overnight)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Dal Makhani",
+          "region": "Punjab",
+          "description": "Whole black lentils slow-cooked overnight in butter and cream — the pride of Punjabi cuisine.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dal_makhani.jpg",
+          "ingredients": ["1 cup whole black urad dal", "1/4 cup kidney beans", "2 tbsp butter", "1 cup tomato puree", "1/2 cup cream", "1 tbsp ginger-garlic paste", "1 tsp cumin", "Kashmiri chili powder", "Salt to taste"],
+          "preparation": ["Soak dal and rajma overnight. Pressure cook until very soft.", "Make tomato gravy with butter, ginger-garlic paste and spices.", "Add cooked dal, mash some lentils into gravy.", "Simmer on very low heat 30–45 mins, stirring often.", "Stir in cream and extra butter. Serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Dhokla",
+          "region": "Gujarat",
+          "description": "Soft, spongy steamed savoury cake from fermented chickpea batter — Gujarat's most iconic snack.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhokla.jpg",
+          "ingredients": ["1 cup besan (gram flour)", "1/2 cup yogurt", "1 tsp Eno fruit salt", "1 tsp ginger-chili paste", "1/2 tsp turmeric", "Mustard seeds, sesame, curry leaves (tempering)", "Sugar and lemon juice", "Salt to taste"],
+          "preparation": ["Mix besan, yogurt, ginger-chili paste, turmeric and salt.", "Add Eno just before steaming. Pour into greased plate immediately.", "Steam 15 mins. Cool slightly, cut into squares.", "Temper mustard seeds, sesame and curry leaves in oil.", "Pour sugar-lemon water over dhokla then add tempering."],
+          "youtube": "https://www.youtube.com/watch?v=KzfEzSMpg3E",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Dum Aloo",
+          "region": "Kashmir",
+          "description": "Baby potatoes fried then slow-simmered in an intensely spiced yogurt gravy — a Kashmiri masterpiece.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dum_aloo.jpg",
+          "ingredients": ["500g baby potatoes", "1 cup yogurt", "1 tsp kashmiri chili powder", "1 tsp fennel powder", "1/2 tsp ginger powder", "1/4 tsp asafoetida", "Whole spices: bay leaf, cloves, cardamom", "3 tbsp mustard oil", "Salt to taste"],
+          "preparation": ["Boil baby potatoes, peel and prick with fork.", "Deep fry in oil until golden brown all over.", "Heat mustard oil, add whole spices and asafoetida.", "Add whisked yogurt with dry spices. Stir constantly.", "Add fried potatoes, cover and dum cook 20 mins."],
+          "youtube": "https://www.youtube.com/watch?v=1Kk3yuaSgTs",
+          "prepTime": "45 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Dabeli",
+          "region": "Gujarat (Kutch)",
+          "description": "Spiced mashed potato stuffed in a soft bun with chutneys, pomegranate and sev — Kutch's street food icon.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dabeli.jpg",
+          "ingredients": ["4 pav (soft buns)", "3 boiled potatoes", "2 tsp dabeli masala", "2 tbsp tamarind chutney", "1 tbsp garlic chutney", "1/4 cup pomegranate seeds", "1/4 cup roasted peanuts", "Sev for topping", "Butter for toasting"],
+          "preparation": ["Mash potatoes with dabeli masala, salt and tamarind chutney.", "Shape into oval patties, coat with pomegranate and peanuts.", "Slit pav and apply all chutneys on both sides.", "Place potato patty inside, press gently.", "Toast on buttered tawa until golden. Top with sev and serve."],
+          "youtube": "https://www.youtube.com/watch?v=3T-c2vST2XA",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Dahi Puri",
+          "region": "Mumbai",
+          "description": "Crispy hollow puris filled with potato, yogurt and chutneys — a burst of sweet, tangy, spicy flavours.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dahi_puri.jpg",
+          "ingredients": ["12 puri shells", "2 boiled potatoes (mashed)", "1 cup thick yogurt (whisked)", "3 tbsp tamarind chutney", "2 tbsp green chutney", "1 tsp chaat masala", "1/2 tsp roasted cumin powder", "Sev and coriander"],
+          "preparation": ["Crack open top of each puri shell gently.", "Fill each with spiced mashed potato.", "Add a generous spoonful of whisked yogurt.", "Drizzle tamarind and green chutney on top.", "Sprinkle chaat masala, top with sev and coriander. Serve immediately."],
+          "youtube": "https://www.youtube.com/watch?v=A3V1EFZoGP4",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "E",
+      "subtitle": "Everyday essentials and exotic delights",
+      "foods": [
+        {
+          "name": "Egg Curry",
+          "region": "Pan-India",
+          "description": "Hard-boiled eggs simmered in a spiced onion-tomato gravy — a protein-rich comfort dish found in every Indian home.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Egg_curry.jpg",
+          "ingredients": ["6 eggs (hard-boiled)", "2 onions (pureed)", "2 tomatoes (pureed)", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp garam masala", "1 tsp coriander powder", "3 tbsp oil", "Fresh coriander"],
+          "preparation": ["Fry peeled hard-boiled eggs in oil until lightly golden. Set aside.", "In same oil sauté onion puree until deep brown, 12 mins.", "Add ginger-garlic paste, then tomato puree and all spices.", "Cook until oil separates. Add 1 cup water and bring to simmer.", "Add fried eggs, simmer 8 mins. Garnish and serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=9WXUBDMcFAQ",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Egg Biryani",
+          "region": "Hyderabad",
+          "description": "Fragrant layered rice with spiced eggs, fried onions and saffron — a vegetarian-friendly biryani option.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Egg_biryani.jpg",
+          "ingredients": ["2 cups basmati rice", "6 eggs (hard-boiled)", "2 onions (thinly sliced, fried)", "1 cup yogurt", "2 tbsp biryani masala", "Saffron in warm milk", "Fresh mint and coriander", "3 tbsp ghee", "Whole spices: bay leaf, cardamom, cloves", "Salt to taste"],
+          "preparation": ["Marinate fried eggs in yogurt and biryani masala for 30 mins.", "Parboil rice with whole spices to 70% doneness. Drain.", "Layer egg mixture at bottom of pot, top with parboiled rice.", "Scatter fried onions, mint, coriander and saffron milk.", "Seal and dum cook on low 20 mins. Mix gently and serve."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "1 hr",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Elai Adai",
+          "region": "Tamil Nadu",
+          "description": "Steamed rice and coconut dumplings wrapped in banana leaf — a traditional Tamil breakfast with natural fragrance.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ada_or_Ela_Ada.jpg/1280px-Ada_or_Ela_Ada.jpg",
+          "ingredients": ["2 cups rice flour", "1 cup grated coconut", "3 tbsp jaggery (grated)", "1/4 tsp cardamom powder", "Banana leaves (for wrapping)", "Salt to taste", "Hot water to knead"],
+          "preparation": ["Mix rice flour with salt and enough hot water to form soft dough.", "Combine grated coconut, jaggery and cardamom for filling.", "Soften banana leaf over flame. Place small dough disc on leaf.", "Add coconut filling, fold leaf to enclose. Secure edges.", "Steam for 15 mins until cooked. Serve warm."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "35 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Elaneer Payasam",
+          "region": "Kerala",
+          "description": "Tender coconut water and flesh slow-cooked with condensed milk — a refreshing, lightly sweet Kerala dessert.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elaneer_payasam.jpg",
+          "ingredients": ["2 cups tender coconut water", "1 cup tender coconut flesh (scraped)", "1/2 cup condensed milk", "1/4 cup sugar", "1/4 tsp cardamom powder", "2 tbsp cashews (fried in ghee)", "1 tbsp raisins"],
+          "preparation": ["Combine coconut water, coconut flesh and condensed milk in a pot.", "Bring to a gentle simmer, stirring to prevent scorching.", "Add sugar and cardamom. Cook 10 mins on low heat.", "Adjust sweetness. Remove from heat and cool slightly.", "Garnish with fried cashews and raisins. Serve chilled or warm."],
+          "youtube": "https://www.youtube.com/watch?v=LJMCKVmKsFI",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Ennai Kathirikai",
+          "region": "Tamil Nadu",
+          "description": "Baby brinjals stuffed with spiced peanut masala and slow-cooked in oil — a bold, tangy Chettinad specialty.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ennai_Kathirikai.jpg",
+          "ingredients": ["8 baby brinjals", "1/2 cup roasted peanuts", "2 tbsp sesame seeds", "1 tbsp coriander powder", "1 tsp cumin", "1 tsp red chili powder", "2 tbsp tamarind pulp", "1 tsp jaggery", "4 tbsp sesame oil", "Salt to taste"],
+          "preparation": ["Grind peanuts, sesame seeds and dry spices to coarse powder.", "Slit brinjals from bottom keeping stem intact. Stuff with spice mix.", "Heat sesame oil in wide pan on medium heat.", "Place stuffed brinjals, cover and cook 5 mins each side.", "Add tamarind water and jaggery. Simmer covered 10 mins until soft."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "35 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Erachi Ularthiyathu",
+          "region": "Kerala",
+          "description": "Dry-roasted spiced beef with coconut pieces and Kerala spices — a bold, dark and aromatic Christian community dish.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALZ0Y39YApGsveOFJUyG_OxnARLH3M1zTYg&s",
+          "ingredients": ["500g beef (cut into small pieces)", "1/2 cup coconut pieces", "2 onions (sliced)", "1 tbsp ginger-garlic paste", "2 tsp black pepper", "1 tsp garam masala", "2 tsp coriander powder", "Curry leaves", "3 tbsp coconut oil", "Salt to taste"],
+          "preparation": ["Pressure cook beef with salt, turmeric and half the spices for 3 whistles.", "Fry coconut pieces in coconut oil until golden. Set aside.", "In same oil, sauté onions, ginger-garlic paste and curry leaves.", "Add cooked beef and remaining spices. Stir-fry on high heat.", "Add fried coconut, dry roast until dark and aromatic, 10 mins."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "50 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "subtitle": "Fragrant fish and festive fare",
+      "foods": [
+        {
+          "name": "Fish Curry (Goan)",
+          "region": "Goa",
+          "description": "Tangy, fiery fish curry with coconut milk and kokum — the soul of Goan coastal cooking.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Goan_fish_curry.jpg",
+          "ingredients": ["500g fish (kingfish or pomfret)", "1 cup coconut milk", "4 kokum pieces", "1 onion (sliced)", "4 dried red chilies", "1 tsp turmeric", "1 tbsp coriander seeds", "1 tsp cumin", "4 garlic cloves", "3 tbsp oil"],
+          "preparation": ["Grind red chilies, coriander, cumin, garlic and turmeric with water to paste.", "Fry onions in oil until golden. Add ground masala and cook 5 mins.", "Add coconut milk and 1/2 cup water. Bring to simmer.", "Add fish pieces and kokum. Cook 8–10 mins gently.", "Adjust salt and tanginess. Serve with steamed rice."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "30 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Falooda",
+          "region": "Mumbai",
+          "description": "Layered rose-flavoured milk drink with basil seeds, vermicelli and ice cream — Mumbai's most indulgent street drink.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Falooda.jpg",
+          "ingredients": ["1.5 cups cold milk", "2 tbsp rose syrup", "2 tbsp sabja seeds (soaked 20 mins)", "2 tbsp cooked falooda sev (vermicelli)", "2 tbsp rose jelly (cubed)", "2 scoops vanilla ice cream", "Dry fruits for garnish"],
+          "preparation": ["Soak sabja seeds in water for 20 mins until swollen.", "Cook falooda sev until soft, rinse with cold water.", "Add rose syrup to cold milk and mix well.", "Layer in tall glass: jelly, sev, sabja seeds, rose milk.", "Top with ice cream scoops and garnish with dry fruits."],
+          "youtube": "https://www.youtube.com/watch?v=YEQjjnvNOcU",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Fish Amritsari",
+          "region": "Punjab",
+          "description": "Crispy battered fried fish marinated in ajwain and spices — a legendary Punjabi appetizer from the streets of Amritsar.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amritsari_fish.jpg",
+          "ingredients": ["500g fish fillets (basa or sole)", "1 cup besan", "2 tbsp rice flour", "1 tsp ajwain (carom seeds)", "1 tsp red chili powder", "1 tbsp ginger-garlic paste", "1 tsp amchur", "Juice of 1 lemon", "Oil for frying", "Salt to taste"],
+          "preparation": ["Marinate fish with ginger-garlic paste, spices and lemon juice for 30 mins.", "Mix besan, rice flour, ajwain, salt and enough water to thick batter.", "Dip marinated fish in batter to coat evenly.", "Deep fry in hot oil until golden and crispy, 4–5 mins per side.", "Drain on paper. Serve with green chutney and onion rings."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "40 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Firni",
+          "region": "North India / Kashmir",
+          "description": "Chilled ground rice pudding set in clay pots with rose water and pistachios — a Mughal-era festive dessert.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDogdVkJvIsLmI9sICBls0YtA5jV576wBIw&s",
+          "ingredients": ["1 litre full-fat milk", "3 tbsp rice (soaked, coarsely ground)", "5 tbsp sugar", "1/4 tsp cardamom powder", "1 tbsp rose water", "A pinch of saffron", "Crushed pistachios and almonds", "Dried rose petals"],
+          "preparation": ["Heat milk in heavy bottomed pan, bring to boil stirring.", "Add ground rice paste slowly, whisking to avoid lumps.", "Simmer on low 20 mins stirring continuously until thick.", "Add sugar, cardamom, saffron and rose water. Mix well.", "Pour into clay bowls (shikore), cool then refrigerate. Garnish before serving."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "35 mins (+chilling)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Fulka",
+          "region": "Pan-India",
+          "description": "Thin whole wheat rotis puffed over an open flame — the everyday bread of millions of Indian families.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chapati.jpg",
+          "ingredients": ["2 cups whole wheat flour (atta)", "Water as needed", "Pinch of salt", "1 tsp oil", "Ghee to finish"],
+          "preparation": ["Mix flour, salt and oil. Add water gradually to soft pliable dough.", "Rest dough covered for 20 mins.", "Divide into small balls. Roll each into thin 6-inch rounds.", "Cook on hot tawa 30 sec each side until light brown spots appear.", "Place directly on flame — it will puff. Brush ghee and serve."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Fruit Custard",
+          "region": "Pan-India",
+          "description": "Creamy vanilla custard chilled with fresh seasonal fruits — a beloved Indian dessert for parties and celebrations.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fruit_custard.jpg",
+          "ingredients": ["1 litre full-fat milk", "3 tbsp custard powder (vanilla)", "4 tbsp sugar", "1 banana (sliced)", "1 apple (diced)", "1/2 cup grapes", "1/2 cup pomegranate seeds", "1/4 cup mango (diced)"],
+          "preparation": ["Mix custard powder with 4 tbsp cold milk to smooth paste.", "Heat remaining milk with sugar. When hot, add custard paste.", "Stir continuously until thick. Remove and cool completely.", "Refrigerate custard for 1 hr until well set and chilled.", "Fold in all fresh fruits just before serving."],
+          "youtube": "https://www.youtube.com/watch?v=LJMCKVmKsFI",
+          "prepTime": "20 mins (+chilling)",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "G",
+      "subtitle": "Golden sweets and garden greens",
+      "foods": [
+        {
+          "name": "Gulab Jamun",
+          "region": "Pan-India",
+          "description": "Soft khoya dumplings fried golden and soaked in rose-cardamom sugar syrup — India's most beloved sweet.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gulab_jamun.jpg",
+          "ingredients": ["1 cup khoya (mawa)", "2 tbsp all-purpose flour", "1/4 tsp baking soda", "1 cup sugar", "1 cup water", "4 green cardamom pods", "1 tbsp rose water", "Oil for frying"],
+          "preparation": ["Make sugar syrup with water, sugar, cardamom and rose water. Set aside warm.", "Knead khoya, flour and baking soda to soft smooth dough.", "Shape into small smooth balls without any cracks.", "Deep fry on low heat until deep golden all over, 8–10 mins.", "Drop hot gulab jamuns into warm syrup. Soak 30 mins before serving."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "40 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Gajar Ka Halwa",
+          "region": "Punjab",
+          "description": "Slow-cooked grated carrots in milk, sugar and ghee — a winter festival favourite from North India.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gajar_ka_halwa.jpg",
+          "ingredients": ["1 kg red carrots (grated)", "1 litre full-fat milk", "4 tbsp ghee", "1 cup sugar", "1/2 tsp cardamom powder", "2 tbsp cashews", "2 tbsp raisins", "2 tbsp pistachios"],
+          "preparation": ["Cook grated carrots in milk in a wide pan, stirring frequently.", "Cook until milk completely evaporates, about 45 mins.", "Add ghee and stir-fry carrots 10 mins until fragrant.", "Add sugar, mix well and cook until dry again.", "Add cardamom and fried nuts. Serve warm."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "1 hr",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Gongura Mutton",
+          "region": "Andhra Pradesh",
+          "description": "Slow-cooked tender mutton in fiery sorrel leaf gravy — the pride of Andhra cuisine with punchy tanginess.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gongura_mutton.jpg",
+          "ingredients": ["500g mutton (bone-in)", "2 cups gongura (sorrel) leaves", "2 onions (sliced)", "2 tbsp ginger-garlic paste", "4 dried red chilies", "1 tsp turmeric", "2 tsp coriander powder", "1 tsp garam masala", "4 tbsp oil", "Salt to taste"],
+          "preparation": ["Cook gongura leaves until soft and pulpy. Set aside.", "Pressure cook mutton with salt and turmeric for 3 whistles.", "Fry onions golden, add ginger-garlic paste and dry spices.", "Add cooked mutton and gongura pulp. Mix thoroughly.", "Simmer uncovered 15 mins until oil separates. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "1 hr",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Ghevar",
+          "region": "Rajasthan",
+          "description": "Disc-shaped honeycomb sweet drenched in sugar syrup and cream — Rajasthan's signature festival dessert.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghevar.jpg",
+          "ingredients": ["2 cups all-purpose flour", "4 tbsp ghee (chilled)", "1 cup cold water", "1 cup ice cubes", "1.5 cups sugar", "1 cup water (syrup)", "1/2 cup rabdi (reduced milk)", "Chopped pistachios"],
+          "preparation": ["Whisk chilled ghee vigorously until white and creamy.", "Gradually add ice water and flour to make thin, smooth batter.", "Heat ghee in deep round vessel. Pour ladle of batter in center.", "Ladle keeps forming a lattice disc. Drain on wire rack.", "Soak in one-string sugar syrup. Top with rabdi and pistachios."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "1 hr",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Gobi Manchurian",
+          "region": "Pan-India (Indo-Chinese)",
+          "description": "Crispy battered cauliflower in tangy soy-chili sauce — the wildly popular Indo-Chinese street food.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gobi_Manchurian.jpg",
+          "ingredients": ["1 cauliflower (florets)", "1/2 cup all-purpose flour", "3 tbsp cornflour", "2 tbsp soy sauce", "1 tbsp chili sauce", "1 tbsp ginger-garlic (minced)", "2 spring onions", "1 capsicum (diced)", "Oil for frying", "Salt and pepper"],
+          "preparation": ["Make batter with flour, cornflour, salt, pepper and water. Coat florets.", "Deep fry cauliflower until golden and crispy. Drain.", "Stir-fry ginger-garlic, capsicum and spring onions on high heat.", "Add soy sauce, chili sauce and 3 tbsp water. Toss together.", "Add fried cauliflower, toss to coat. Serve immediately."],
+          "youtube": "https://www.youtube.com/watch?v=G3KoSRzPTWU",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Gatte Ki Sabzi",
+          "region": "Rajasthan",
+          "description": "Chickpea flour dumplings in tangy yogurt gravy — a staple of the Rajasthani desert kitchen.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gatte_ki_sabzi.jpg",
+          "ingredients": ["1 cup besan", "1/4 tsp ajwain", "1/4 tsp red chili powder", "2 tbsp oil", "1.5 cups yogurt", "1 tsp cumin seeds", "1 tsp coriander powder", "1/2 tsp turmeric", "Pinch of asafoetida", "Salt to taste"],
+          "preparation": ["Mix besan, ajwain, chili, salt and oil. Add water to firm dough.", "Roll into cylinders, boil in water 10 mins. Cut into rounds.", "Whisk yogurt with all spices until smooth.", "Temper cumin and asafoetida in oil. Add yogurt mixture.", "Cook on low heat, add gatte. Simmer 10 mins. Serve with roti."],
+          "youtube": "https://www.youtube.com/watch?v=XQ2fEp4NHZU",
+          "prepTime": "40 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "subtitle": "Hearty dishes from hill and plain",
+      "foods": [
+        {
+          "name": "Haleem",
+          "region": "Hyderabad",
+          "description": "Slow-cooked meat and wheat porridge with aromatic spices — a Hyderabadi Ramzan treasure of extraordinary depth.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haleem.jpg",
+          "ingredients": ["500g mutton (bone-in)", "1/2 cup broken wheat", "1/4 cup chana dal", "1/4 cup masoor dal", "2 onions (fried golden)", "1 tbsp haleem masala", "1 tsp garam masala", "Fresh ginger juliennes", "Lemon wedges and coriander", "4 tbsp ghee"],
+          "preparation": ["Pressure cook mutton until very soft. Shred the meat.", "Soak and cook wheat and lentils separately until mushy.", "Combine mutton, wheat and dal. Cook together 30 mins, mashing.", "Add haleem masala and ghee. Pound with wooden spoon to paste-like consistency.", "Serve topped with fried onions, ginger, lemon and coriander."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "2 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Hara Bhara Kabab",
+          "region": "North India",
+          "description": "Vibrant green patties of spinach, peas and paneer — a nutrient-packed, crispy vegetarian starter.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hara_bhara_kabab.jpg",
+          "ingredients": ["2 cups spinach (blanched, squeezed)", "1 cup green peas (boiled)", "100g paneer", "2 boiled potatoes", "2 green chilies", "1 tsp cumin powder", "1 tsp chaat masala", "2 tbsp bread crumbs", "Oil for shallow frying", "Salt to taste"],
+          "preparation": ["Blend spinach, peas and chilies to coarse paste.", "Mix with mashed potatoes, crumbled paneer and all spices.", "Add breadcrumbs to bind. Shape into flat round patties.", "Shallow fry on medium heat until crispy and golden both sides.", "Serve with mint chutney and sliced onions."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Hyderabadi Mirchi Ka Salan",
+          "region": "Hyderabad",
+          "description": "Long green chilies cooked in a rich peanut-sesame-coconut gravy — a tangy biryani accompaniment.",
+          "image": "https://i.ytimg.com/vi/ycbDBWjDOV0/maxresdefault.jpg",
+          "ingredients": ["6 large green chilies (bhavnagri)", "3 tbsp peanuts (roasted)", "2 tbsp sesame seeds", "2 tbsp grated coconut", "2 onions", "2 tbsp tamarind pulp", "1 tsp mustard seeds", "1 tsp cumin", "1/2 tsp turmeric", "4 tbsp oil"],
+          "preparation": ["Roast peanuts, sesame and coconut. Grind with onions to smooth paste.", "Slit and lightly fry chilies in oil. Remove and set aside.", "In same oil, temper mustard and cumin. Add ground paste.", "Fry masala until oil separates. Add tamarind and water.", "Add fried chilies, simmer 10 mins. Serve alongside biryani."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "35 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Himachali Siddu",
+          "region": "Himachal Pradesh",
+          "description": "Steamed wheat flour buns stuffed with poppy seed and walnut filling — a warming Himachali winter bread.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siddu.jpg",
+          "ingredients": ["2 cups wheat flour", "1 tsp yeast", "1/2 cup poppy seeds", "1/4 cup walnuts (crushed)", "2 tbsp jaggery", "1 tsp fennel seeds", "Pinch of salt", "Water to knead", "Ghee to serve"],
+          "preparation": ["Dissolve yeast in warm water with a pinch of sugar. Rest 10 mins.", "Knead flour with yeast water to soft dough. Ferment 2 hrs.", "Mix poppy seeds, walnuts, jaggery and fennel for filling.", "Stuff dough balls with filling, seal and shape into rounds.", "Steam for 20 mins until cooked. Serve hot with ghee."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "2.5 hrs",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Halwa Puri",
+          "region": "Delhi / Punjab",
+          "description": "Deep-fried puffed breads served with semolina halwa and spiced chickpea — the quintessential weekend breakfast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halwa_puri.jpg",
+          "ingredients": ["2 cups all-purpose flour", "Oil for frying", "1 cup semolina (rava)", "3 tbsp ghee", "1/2 cup sugar", "1/4 tsp cardamom", "2 tbsp cashews", "Saffron in warm water", "Salt to taste"],
+          "preparation": ["Make stiff dough with flour, salt and water. Rest 15 mins.", "For halwa: roast semolina in ghee until golden and fragrant.", "Add 2 cups hot water, sugar, cardamom and saffron. Stir until thick.", "Roll dough thin, cut into rounds. Deep fry until puffed and golden.", "Serve puris hot alongside warm halwa and spiced chickpeas."],
+          "youtube": "https://www.youtube.com/watch?v=8a3mPyLqnEE",
+          "prepTime": "45 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Hariyali Chicken",
+          "region": "North India",
+          "description": "Chicken marinated in a vivid green herb paste of spinach, coriander and mint — grilled to smoky perfection.",
+          "image": "https://myheartbeets.com/wp-content/uploads/2020/02/hariyali-chicken.jpg",
+          "ingredients": ["500g chicken (bone-in pieces)", "1 cup spinach", "1 cup coriander leaves", "1/2 cup mint leaves", "4 green chilies", "1/2 cup yogurt", "1 tbsp ginger-garlic paste", "1 tsp garam masala", "2 tbsp lemon juice", "3 tbsp oil"],
+          "preparation": ["Blend spinach, coriander, mint and green chilies to smooth paste.", "Mix herb paste with yogurt, ginger-garlic, garam masala and lemon.", "Marinate chicken in green mixture for at least 4 hrs.", "Grill or bake at 200°C for 25–30 mins, basting with marinade.", "Serve with mint chutney, onion rings and lemon wedges."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "40 mins (+marinating)",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "subtitle": "Iconic staples from every Indian state",
+      "foods": [
+        {
+          "name": "Idli",
+          "region": "Tamil Nadu",
+          "description": "Soft, pillowy steamed rice and lentil cakes — the gentlest, most nourishing South Indian breakfast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Idli_sambar.jpg",
+          "ingredients": ["2 cups idli rice", "1/2 cup urad dal", "1/4 tsp fenugreek seeds", "Salt to taste", "Oil to grease molds", "Sambar and chutney to serve"],
+          "preparation": ["Soak rice and urad dal (with fenugreek) separately for 5 hrs.", "Grind urad dal to light, fluffy batter. Grind rice to smooth paste.", "Combine batters with salt. Ferment at room temp overnight.", "Grease idli molds. Pour batter. Steam 10–12 mins.", "Serve hot with sambar and coconut chutney."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "15 mins (+overnight ferment)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Imarti",
+          "region": "Madhya Pradesh / UP",
+          "description": "Flower-shaped deep-fried urad dal sweet soaked in saffron syrup — a more complex, crispier cousin of jalebi.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Imarti.jpg",
+          "ingredients": ["1 cup urad dal (soaked 4 hrs)", "Orange food color", "1 tbsp rice flour", "1.5 cups sugar", "1 cup water", "1/4 tsp saffron", "1/4 tsp cardamom", "Oil for frying"],
+          "preparation": ["Grind urad dal to very smooth, thick batter. Add food color and rice flour.", "Make thick one-string syrup with sugar, water, saffron and cardamom.", "Fill piping bag or cloth cone with batter.", "Pipe flower/spiral shapes into hot oil. Fry until crisp.", "Transfer directly from oil into warm syrup. Soak 2 mins and serve."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "45 mins",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Idiyappam",
+          "region": "Kerala / Tamil Nadu",
+          "description": "Delicate steamed rice noodle strings served with coconut milk — a light, graceful South Indian breakfast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Idiyappam.jpg",
+          "ingredients": ["2 cups rice flour (roasted)", "1.5 cups hot water", "Salt to taste", "1 tsp oil", "Coconut milk to serve", "Coconut and jaggery for accompaniment"],
+          "preparation": ["Mix roasted rice flour, salt and oil. Add boiling water gradually.", "Knead into soft, pliable dough while still warm.", "Fill idiyappam press with dough. Grease idli molds.", "Press noodles directly into molds in spirals.", "Steam 7–8 mins. Serve with coconut milk and scraped coconut-jaggery."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "25 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Indori Poha",
+          "region": "Madhya Pradesh (Indore)",
+          "description": "Flattened rice cooked with onions and spices, topped with sev and jalebi — Indore's iconic breakfast combination.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8J2qzWpX9i3ZVVE1UqKouAxW4koUNtw-ug&s",
+          "ingredients": ["2 cups thick poha (flattened rice)", "1 onion (finely chopped)", "2 green chilies", "1/2 tsp mustard seeds", "1/4 tsp turmeric", "1/2 tsp fennel seeds", "8–10 curry leaves", "1/2 tsp sugar", "Sev and pomegranate to garnish", "3 tbsp oil"],
+          "preparation": ["Rinse poha, drain and rest 5 mins to soften.", "Temper mustard, fennel and curry leaves in oil.", "Add onions and chilies. Cook until soft.", "Add turmeric, salt and sugar. Fold in poha gently.", "Cover and cook 3 mins. Serve topped with sev and pomegranate."],
+          "youtube": "https://www.youtube.com/watch?v=t6KQFU1KBQE",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Inji Curry",
+          "region": "Kerala",
+          "description": "Pungent ginger preserved in tamarind and jaggery with mustard tempering — an essential part of Kerala's Onam Sadya feast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Inji_curry.jpg",
+          "ingredients": ["200g fresh ginger (finely chopped)", "3 tbsp tamarind pulp", "2 tbsp jaggery", "1 tsp mustard seeds", "2 dried red chilies", "Curry leaves", "1 tsp red chili powder", "1/2 tsp turmeric", "2 tbsp coconut oil", "Salt to taste"],
+          "preparation": ["Fry ginger pieces in oil until lightly golden and aromatic.", "Add red chili powder, turmeric and salt. Stir well.", "Add tamarind pulp and jaggery. Mix thoroughly.", "Simmer on low heat until gravy thickens and coats ginger.", "Temper mustard, dried chilies and curry leaves. Pour over curry."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Ilish Macher Jhol",
+          "region": "West Bengal",
+          "description": "Hilsa fish in a light mustard and turmeric broth — an ethereal Bengali delicacy treasured above all fish curries.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilish_macher_jhol.jpg",
+          "ingredients": ["500g hilsa fish (steaks)", "2 tbsp mustard seeds (ground to paste)", "3 green chilies", "1/2 tsp turmeric", "1 tsp nigella seeds (kalonji)", "3 tbsp mustard oil", "Salt to taste", "2 cups water"],
+          "preparation": ["Rub fish steaks with salt and turmeric. Marinate 10 mins.", "Fry fish lightly in mustard oil until golden on both sides. Remove.", "In same oil, add nigella seeds and green chilies.", "Add mustard paste dissolved in water. Simmer 5 mins.", "Add fried fish, cook 8 mins on low heat. Serve with steamed rice."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "J",
+      "subtitle": "Jewels of Indian street cuisine",
+      "foods": [
+        {
+          "name": "Jalebi",
+          "region": "Pan-India",
+          "description": "Crispy, fermented wheat spirals deep-fried and dunked in warm saffron syrup — India's most iconic sweet.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jalebi.jpg",
+          "ingredients": ["1 cup all-purpose flour", "2 tbsp cornflour", "1/2 tsp baking powder", "1 cup yogurt", "1.5 cups sugar", "1 cup water", "Saffron strands", "Cardamom powder", "Oil for frying", "Yellow food color"],
+          "preparation": ["Mix flour, cornflour, yogurt and food color into smooth batter. Ferment 8 hrs.", "Make thin saffron-cardamom sugar syrup. Keep warm.", "Fill piping bag or bottle with batter.", "Pipe spirals into hot oil. Fry until crispy and golden.", "Dip immediately in syrup for 30 seconds. Serve hot."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "20 mins (+ferment)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Jowar Bhakri",
+          "region": "Maharashtra",
+          "description": "Rustic sorghum flatbread patted by hand — a gluten-free staple of rural Maharashtra eaten with garlic chutney.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKjnBOOdmYtTA78oKv3j_s3fO6nnS2gsVGWA&s",
+          "ingredients": ["2 cups jowar flour (sorghum)", "Hot water as needed", "Salt to taste", "Ghee to finish"],
+          "preparation": ["Add salt to jowar flour. Pour boiling hot water gradually.", "Mix with a spoon, then knead when cool enough with wet hands.", "Pinch a ball, pat it flat on damp cloth into thin round.", "Cook on dry hot tawa 2 mins, flip and cook 1 min.", "Hold over flame briefly until it puffs slightly. Serve with ghee."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "25 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Jhalmuri",
+          "region": "West Bengal / Odisha",
+          "description": "Spiced puffed rice with mustard oil, green chilies and raw onion — Bengal's beloved roadside evening snack.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jhalmuri.jpg",
+          "ingredients": ["2 cups puffed rice", "1 onion (finely chopped)", "1 tomato (finely chopped)", "2 green chilies (minced)", "1/4 cup roasted peanuts", "1 boiled potato (cubed)", "1 tsp mustard oil", "1/2 tsp chili powder", "1 tsp roasted cumin powder", "Salt to taste"],
+          "preparation": ["In a large bowl, combine onion, tomato, chilies and potato.", "Add peanuts, chili powder, cumin and salt. Toss.", "Drizzle mustard oil and mix well.", "Add puffed rice just before serving to retain crunch.", "Toss quickly and serve immediately in newspaper cones."],
+          "youtube": "https://www.youtube.com/watch?v=G3KoSRzPTWU",
+          "prepTime": "10 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Jackfruit Curry",
+          "region": "Kerala / Odisha",
+          "description": "Young unripe jackfruit slow-cooked in spiced coconut gravy — the original plant-based meat of Indian cooking.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackfruit_curry.jpg",
+          "ingredients": ["500g raw jackfruit (peeled, cubed)", "1 cup coconut milk", "1 onion (chopped)", "2 tomatoes (pureed)", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "2 tsp coriander powder", "1 tsp cumin", "1 tsp garam masala", "3 tbsp oil"],
+          "preparation": ["Pressure cook jackfruit with salt and turmeric for 2 whistles.", "Sauté onions until golden. Add ginger-garlic paste and tomatoes.", "Add all dry spices and cook until oil separates.", "Add cooked jackfruit and coconut milk. Mix gently.", "Simmer 15 mins until jackfruit absorbs all flavours. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "45 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Junglee Maas",
+          "region": "Rajasthan",
+          "description": "Minimal-ingredient Rajasthani meat curry with just red chilies and ghee — rustic, bold and powerfully flavourful.",
+          "image": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/Rajasthani-Junglee-mass-scaled.jpg?v=1619431112",
+          "ingredients": ["500g mutton (bone-in)", "10 mathania dried red chilies", "1 tbsp garlic (crushed)", "4 tbsp ghee", "1 tsp salt", "2 cups water"],
+          "preparation": ["Soak dried red chilies in water for 20 mins. Grind to paste.", "Heat ghee in heavy pot. Add crushed garlic and sizzle 1 min.", "Add mutton pieces and sear on high heat until browned.", "Add red chili paste and salt. Stir to coat meat completely.", "Add water, cover and cook on low 45–50 mins until tender."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "1 hr",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Jodhpuri Mirchi Vada",
+          "region": "Rajasthan",
+          "description": "Giant green chilies stuffed with spiced potato, battered in besan and deep-fried — Jodhpur's fiery street snack.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirchi_vada.jpg",
+          "ingredients": ["6 large bhavnagri green chilies", "3 boiled potatoes (mashed)", "1 tsp red chili powder", "1 tsp amchur", "1 tsp fennel seeds", "1 cup besan", "1/4 tsp turmeric", "Oil for deep frying", "Salt to taste"],
+          "preparation": ["Slit green chilies lengthwise and remove seeds carefully.", "Mix mashed potato with amchur, fennel, chili powder and salt.", "Stuff each chili generously with spiced potato filling.", "Make thick besan batter with turmeric, salt and water.", "Dip stuffed chilies in batter, fry until golden. Serve with chutney."],
+          "youtube": "https://www.youtube.com/watch?v=XQ2fEp4NHZU",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "K",
+      "subtitle": "Kings of the Indian kitchen",
+      "foods": [
+        {
+          "name": "Kadai Paneer",
+          "region": "North India",
+          "description": "Paneer and capsicum tossed in a bold tomato gravy with freshly ground kadai spices — rich and rustic.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kadai_paneer.jpg",
+          "ingredients": ["250g paneer (cubed)", "1 capsicum (diced)", "2 tomatoes (pureed)", "1 onion (chopped)", "1 tsp kadai masala", "1 tsp coriander seeds (crushed)", "1 tsp kashmiri chili", "1 tbsp ginger-garlic paste", "2 tbsp oil", "Kasuri methi"],
+          "preparation": ["Dry roast and grind coriander seeds, dried chilies for fresh kadai masala.", "Sauté onions until golden. Add ginger-garlic paste and tomatoes.", "Add kadai masala, chili powder and salt. Cook until oil separates.", "Add capsicum and paneer. Toss gently to coat with masala.", "Simmer 5 mins. Finish with kasuri methi. Serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Kheer",
+          "region": "Pan-India",
+          "description": "Slow-simmered rice pudding with cardamom, saffron and nuts — the timeless, sacred Indian dessert.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kheer.jpg",
+          "ingredients": ["1 litre full-fat milk", "3 tbsp basmati rice", "5 tbsp sugar", "1/4 tsp cardamom powder", "A pinch of saffron", "2 tbsp cashews", "2 tbsp raisins", "1 tbsp pistachios (sliced)"],
+          "preparation": ["Wash rice and soak 20 mins. Heat milk in heavy pan.", "Once boiling, add soaked rice and stir frequently.", "Simmer on low 30–35 mins until rice breaks down and milk thickens.", "Add sugar, saffron, cardamom and nuts. Cook 5 more mins.", "Serve warm or chilled. Garnish with pistachios."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "45 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Korma",
+          "region": "Lucknow / Mughal",
+          "description": "Mildly spiced, creamy braised meat or vegetable dish with yogurt and nuts — a jewel of Mughal court cuisine.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamb_korma.jpg",
+          "ingredients": ["500g chicken", "1 cup yogurt", "1/2 cup cashew paste", "2 onions (fried golden)", "1 tbsp ginger-garlic paste", "1 tsp white pepper", "1 tsp cardamom powder", "1/2 tsp nutmeg", "3 tbsp ghee", "Kewra water"],
+          "preparation": ["Fry sliced onions to deep golden. Grind to paste with cashews.", "Marinate chicken in yogurt, spices and ginger-garlic for 1 hr.", "Heat ghee, add chicken and sear until sealed.", "Add onion-cashew paste. Cook covered on low 25 mins.", "Finish with kewra water and a little cream. Serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "1 hr",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Kulfi",
+          "region": "Pan-India",
+          "description": "Dense, creamy frozen milk dessert with cardamom, pistachio and saffron — India's original ice cream.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kulfi.jpg",
+          "ingredients": ["1 litre full-fat milk", "1/2 cup condensed milk", "1/4 cup sugar", "1/4 tsp cardamom powder", "A pinch of saffron", "2 tbsp pistachios (crushed)", "2 tbsp almonds (slivered)", "1 tsp rose water"],
+          "preparation": ["Boil milk, reduce to half its volume stirring constantly.", "Add condensed milk, sugar, saffron and cardamom. Stir well.", "Cook 5 more mins. Add nuts and rose water. Cool completely.", "Pour into kulfi molds or small cups with sticks.", "Freeze 6–8 hrs until completely set. Unmold and serve."],
+          "youtube": "https://www.youtube.com/watch?v=LJMCKVmKsFI",
+          "prepTime": "30 mins (+freezing)",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Kadhi Pakora",
+          "region": "Punjab",
+          "description": "Crispy gram flour fritters in a tangy yogurt-besan kadhi — the ultimate Punjabi comfort food.",
+          "image": "https://c.ndtvimg.com/2023-09/oqpk3pdo_kadhi-pakoda_625x300_13_September_23.jpg",
+          "ingredients": ["For Kadhi: 1 cup yogurt, 3 tbsp besan, 1 tsp turmeric, salt", "For Pakora: 1 cup besan, 1 onion (sliced), green chilies, ajwain, salt", "Tempering: mustard seeds, cumin, dried red chili, ghee", "1 tsp red chili powder", "Fresh coriander"],
+          "preparation": ["Whisk yogurt, besan, turmeric and salt with 3 cups water.", "Cook on medium heat 20 mins, stirring until it thickens.", "Make pakora batter and fry onion fritters until golden.", "Add pakoras to kadhi. Simmer 10 mins to absorb flavours.", "Temper with ghee, mustard seeds and dried chilies. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "45 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Keema Matar",
+          "region": "North India",
+          "description": "Spiced minced meat cooked with fresh green peas — a hearty, fragrant curry best scooped with a warm puri.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNuKHYH0uW7QYT4kNQ4kJIsIVPTbNf5SlVBQ&s",
+          "ingredients": ["500g minced lamb or beef", "1 cup green peas", "2 onions (finely chopped)", "2 tomatoes (chopped)", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1 tsp coriander powder", "1 tsp garam masala", "1 tsp red chili powder", "3 tbsp oil"],
+          "preparation": ["Fry onions in oil until deep brown, 12–15 mins.", "Add ginger-garlic paste and cook 2 mins.", "Add mince, cook on high heat breaking lumps until browned.", "Add tomatoes and all spices. Cook until oil separates.", "Add peas and 1/2 cup water. Simmer 10 mins. Serve with puri or paratha."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "40 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "subtitle": "Layered, luscious and lovingly made",
+      "foods": [
+        {
+          "name": "Lassi",
+          "region": "Punjab",
+          "description": "Thick yogurt drink blended with ice, cardamom and sugar or salt — Punjab's iconic summer thirst-quencher.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lassi.jpg",
+          "ingredients": ["2 cups thick yogurt", "1 cup cold water or ice", "3 tbsp sugar (sweet) or salt (salted)", "1/4 tsp cardamom powder", "A pinch of saffron", "2 tbsp cream (optional)", "Chopped pistachios to garnish"],
+          "preparation": ["Blend yogurt and cold water or ice until smooth and frothy.", "Add sugar, cardamom and saffron. Blend 1 more min.", "Adjust sweetness and consistency to preference.", "Pour into tall glasses over ice.", "Top with cream and garnish with crushed pistachios and saffron."],
+          "youtube": "https://www.youtube.com/watch?v=YEQjjnvNOcU",
+          "prepTime": "5 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Litti Chokha",
+          "region": "Bihar / Jharkhand",
+          "description": "Dough balls stuffed with roasted sattu, baked over coals and served with smoky brinjal chokha — a Bihar classic.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Litti_chokha.jpg",
+          "ingredients": ["2 cups wheat flour", "1 cup sattu (roasted gram flour)", "1 tsp ajwain", "1 tbsp pickle oil", "2 eggplants (for chokha)", "2 tomatoes", "3 green chilies", "1 onion (raw, chopped)", "Mustard oil", "Salt to taste"],
+          "preparation": ["Mix sattu with ajwain, pickle oil, salt and water for stuffing.", "Knead wheat flour dough, stuff with sattu mix, shape into balls.", "Bake in oven at 200°C or over open flame until charred outside.", "Roast eggplants and tomatoes over flame. Peel and mash.", "Mix mash with raw onion, chilies and mustard oil for chokha. Serve together."],
+          "youtube": "https://www.youtube.com/watch?v=t6KQFU1KBQE",
+          "prepTime": "50 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Laal Maas",
+          "region": "Rajasthan",
+          "description": "Fiery red mutton curry made with mathania chilies and yogurt — Rajasthan's most celebrated non-vegetarian dish.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laal_maas.jpg",
+          "ingredients": ["500g mutton (bone-in)", "10 mathania dried red chilies", "1 cup yogurt", "2 onions (sliced)", "1 tbsp garlic (crushed)", "1/2 tsp turmeric", "1 tsp coriander powder", "4 tbsp ghee", "Salt to taste"],
+          "preparation": ["Soak red chilies in hot water 20 mins. Grind to smooth paste.", "Heat ghee, fry onions until deep brown.", "Add garlic, then red chili paste. Fry on medium heat 5 mins.", "Add mutton, sear until browned. Add beaten yogurt gradually.", "Pressure cook with water for 3 whistles. Simmer uncovered to reduce."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Lauki Ka Halwa",
+          "region": "North India",
+          "description": "Bottle gourd slow-cooked in milk with sugar and cardamom — a light, delicate halwa for festive occasions.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lauki_halwa.jpg",
+          "ingredients": ["1 kg bottle gourd (peeled, grated)", "1 litre full-fat milk", "4 tbsp ghee", "3/4 cup sugar", "1/2 tsp cardamom powder", "2 tbsp cashews (fried)", "2 tbsp raisins", "Pinch of green food color (optional)"],
+          "preparation": ["Squeeze grated bottle gourd to remove excess water.", "Cook gourd in milk over medium heat, stirring frequently.", "Continue until milk evaporates and gourd is dry, 35–40 mins.", "Add ghee and fry on medium until lightly golden.", "Add sugar, cardamom and nuts. Cook until dry again. Serve warm."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "55 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Lemon Rice",
+          "region": "Tamil Nadu / Karnataka",
+          "description": "Tangy, turmeric-yellow rice tempered with mustard seeds, peanuts and curry leaves — a quick South Indian staple.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lemon_rice.jpg",
+          "ingredients": ["2 cups cooked basmati rice", "Juice of 2 lemons", "1/4 cup peanuts", "1 tsp mustard seeds", "1/2 tsp turmeric", "8–10 curry leaves", "2 dried red chilies", "1 tsp chana dal", "1 tsp urad dal", "3 tbsp oil"],
+          "preparation": ["Heat oil, add chana dal, urad dal and peanuts. Fry until golden.", "Add mustard seeds, curry leaves and dried red chilies.", "Add turmeric and stir quickly.", "Add cooked rice and salt. Toss gently to mix.", "Remove from heat, add lemon juice. Toss and serve warm."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "region": "Uttar Pradesh (Lucknow)",
+          "description": "Delicately perfumed dum biryani cooked in Awadhi style with kewra water, fried onions and tender meat.",
+          "image": "https://images.archanaskitchen.com/images/recipes/indian/main-course/indian-rice-recipes/biryani-recipes/LUCKNOWI_MURG_BIRYANI_AWADHI_CHICKEN_BIRYANI_108e6d719d.jpg",
+          "ingredients": ["2 cups basmati rice", "500g mutton", "1 cup yogurt", "2 onions (fried golden)", "Whole spices: star anise, mace, black cardamom", "Kewra water", "Saffron milk", "4 tbsp ghee", "Rose water", "Salt to taste"],
+          "preparation": ["Marinate mutton with yogurt, fried onions and whole spices 2 hrs.", "Cook marinated mutton on low heat (pukki dum style) until done.", "Parboil basmati rice with whole spices and salt until 70% cooked.", "Layer cooked mutton and rice alternately in heavy pot.", "Sprinkle saffron milk, rose water and kewra. Seal and dum 20 mins."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "2 hrs",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "letter": "M",
+      "subtitle": "Magnificent dishes from every region",
+      "foods": [
+        {
+          "name": "Masala Dosa",
+          "region": "Karnataka",
+          "description": "Giant crispy dosa filled with spiced potato masala — the pride of South Indian cuisine known worldwide.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Masala_dosa.jpg",
+          "ingredients": ["Dosa batter (fermented rice-lentil)", "3 boiled potatoes (mashed)", "2 onions (sliced)", "1/2 tsp turmeric", "1 tsp mustard seeds", "8 curry leaves", "2 green chilies", "2 tbsp oil", "Salt to taste", "Sambar and chutney to serve"],
+          "preparation": ["Make potato masala: temper mustard and curry leaves, fry onions, add potatoes and turmeric.", "Heat dosa tawa, pour ladle and spread in thin circle.", "Drizzle oil around edges. Cook until crispy and golden.", "Place potato masala in center line, roll dosa around filling.", "Serve immediately with coconut chutney and sambar."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "25 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Matar Paneer",
+          "region": "North India",
+          "description": "Soft paneer cubes with fresh green peas in a rich onion-tomato gravy — a beloved North Indian vegetarian staple.",
+          "image": "https://i.ytimg.com/vi/JDz0ZdnlwgE/maxresdefault.jpg",
+          "ingredients": ["250g paneer (cubed)", "1 cup green peas", "2 onions (pureed)", "2 tomatoes (pureed)", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1 tsp garam masala", "1 tsp coriander powder", "1/2 cup cream", "3 tbsp oil"],
+          "preparation": ["Fry onion puree in oil until deep golden, 15 mins.", "Add ginger-garlic paste and tomato puree. Cook until oil separates.", "Add all dry spices and salt. Stir well.", "Add peas and 1 cup water. Simmer 10 mins.", "Add paneer and cream. Cook 5 mins. Serve with roti or naan."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "35 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "region": "Kashmir",
+          "description": "Tender mutton slow-braised in Kashmiri spices with fragrant whole spices and Ratan jot — Kashmir's crown jewel.",
+          "image": "https://burmawalakitchen.com/wp-content/uploads/2024/05/Mutton-Rogan-Josh-1-1-1024x576.jpg",
+          "ingredients": ["500g mutton (bone-in)", "1 cup yogurt", "2 tsp kashmiri red chili powder", "1 tsp fennel powder", "1/2 tsp ginger powder", "1/4 tsp asafoetida", "Whole spices: black cardamom, cloves, bay leaf", "4 tbsp mustard oil", "Salt to taste"],
+          "preparation": ["Heat mustard oil until smoking. Reduce heat and add whole spices.", "Add asafoetida, then mutton. Sear on high heat until browned.", "Add kashmiri chili powder and fennel. Stir to coat meat.", "Add beaten yogurt gradually, stirring constantly.", "Cover and simmer 45–50 mins until meat is tender and oil floats."],
+          "youtube": "https://www.youtube.com/watch?v=1Kk3yuaSgTs",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Malai Kofta",
+          "region": "North India",
+          "description": "Creamy paneer and potato dumplings in rich cashew-tomato gravy — a luxurious vegetarian dinner party classic.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malai_kofta.jpg",
+          "ingredients": ["For kofta: 200g paneer, 2 boiled potatoes, cornflour, cardamom, raisins, cashews", "For gravy: 2 onions, 3 tomatoes, cashew paste, cream, garam masala, kasuri methi", "3 tbsp butter", "1 tsp red chili powder", "Salt to taste"],
+          "preparation": ["Mash paneer and potatoes, add spices and cornflour. Stuff with raisins-cashews.", "Shape into smooth balls and deep fry until golden. Set aside.", "Make cashew-onion-tomato gravy. Blend smooth and cook in butter.", "Add cream, kasuri methi and all spices. Simmer 10 mins.", "Add koftas to gravy just before serving. Serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "55 mins",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Modak",
+          "region": "Maharashtra",
+          "description": "Steamed rice dumplings filled with coconut-jaggery — Lord Ganesha's favourite offering and a Maharashtra treasure.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Modak.jpg",
+          "ingredients": ["1 cup rice flour", "1.5 cups water", "1 tsp oil", "1 cup grated coconut", "3/4 cup jaggery", "1/4 tsp cardamom powder", "2 tbsp poppy seeds"],
+          "preparation": ["Boil water with salt and oil. Add rice flour. Mix to dough off heat.", "Cook coconut with jaggery until mixture thickens. Add cardamom. Cool.", "Take small rice dough portion, make cup shape, fill with coconut mix.", "Pleat the edges to form traditional modak shape. Seal top.", "Steam 15 mins until translucent. Serve with ghee."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "40 mins",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Malpua",
+          "region": "Rajasthan / Odisha",
+          "description": "Soft, sweet pan-fried pancakes soaked in sugar syrup and topped with rabdi — a festive Indian dessert.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malpua.jpg",
+          "ingredients": ["1 cup all-purpose flour", "1/2 cup semolina", "1.5 cups milk", "2 tbsp sugar", "1/4 tsp fennel seeds", "1/4 tsp cardamom", "Oil or ghee for frying", "Sugar syrup for soaking", "Rabdi to serve"],
+          "preparation": ["Mix flour, semolina, milk, sugar, fennel and cardamom to smooth batter.", "Rest batter 20 mins.", "Heat oil/ghee in flat pan. Pour a ladleful and cook round pancake.", "Fry until golden on both sides, about 2 mins each.", "Dip in warm sugar syrup for 1 min. Serve topped with rabdi."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "35 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "N",
+      "subtitle": "Nourishing and notable Indian classics",
+      "foods": [
+        {
+          "name": "Naan",
+          "region": "North India / Mughal",
+          "description": "Soft leavened bread baked against the walls of a tandoor — the iconic flatbread of Indian restaurants worldwide.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naan.jpg",
+          "ingredients": ["2 cups all-purpose flour", "1 tsp dry yeast", "1/2 cup warm milk", "1/4 cup yogurt", "1 tbsp sugar", "1 tbsp oil", "1/2 tsp salt", "Butter and garlic for topping"],
+          "preparation": ["Dissolve yeast in warm milk with sugar. Rest 10 mins until frothy.", "Mix flour, salt, yogurt and oil. Add yeast mixture, knead 8 mins.", "Rest covered in warm place for 1–1.5 hrs until doubled.", "Divide dough, roll into ovals, stretch slightly.", "Cook on very hot tawa until bubbles form, then under broiler 1–2 mins. Brush with butter."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "2 hrs (with resting)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Nihari",
+          "region": "Delhi / Lucknow",
+          "description": "Slow-cooked bone marrow and shanks in aromatic spices — a Mughal-era breakfast curry of unmatched richness.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nihari.jpg",
+          "ingredients": ["500g beef/mutton shank with bone", "1 tsp nihari masala", "1 tsp ginger powder", "1 tsp fennel powder", "1/2 tsp red chili", "2 onions (fried golden)", "3 tbsp whole wheat flour (dissolved in water)", "4 tbsp ghee", "Ginger juliennes and coriander to garnish"],
+          "preparation": ["Fry onions golden in ghee in heavy pot. Add meat and sear.", "Add all dry spices and 4 cups hot water. Bring to boil.", "Cover tightly and cook on lowest heat 3–4 hrs until meat falls off bone.", "Add dissolved wheat flour, stir and simmer 15 mins to thicken.", "Serve hot with naan, topped with ginger, coriander and lemon."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "4 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Neer Dosa",
+          "region": "Karnataka (Coastal)",
+          "description": "Thin, lacy, snow-white rice crepes from a watery batter — a delicate Mangalorean breakfast eaten with fish curry.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neer_dosa.jpg",
+          "ingredients": ["2 cups raw rice (soaked 4 hrs)", "2.5 cups water", "1/4 cup grated coconut", "Salt to taste", "Oil to grease tawa"],
+          "preparation": ["Grind soaked rice and coconut to very smooth batter.", "Add water to make it very thin (almost like milk). Add salt.", "Heat and lightly grease a non-stick pan.", "Pour thin ladle, swirl quickly to coat pan in thin sheet.", "Cover 1 min until set. No flipping needed. Fold and serve."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "20 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Navratna Korma",
+          "region": "Mughal / Pan-India",
+          "description": "Nine-jewel vegetable curry with nuts, fruits and paneer in creamy saffron gravy — a Mughal feast showpiece.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Navratan_korma.jpg",
+          "ingredients": ["Mixed vegetables: carrot, beans, peas, cauliflower, potato", "100g paneer (cubed)", "2 tbsp cashew paste", "1/2 cup cream", "1 tbsp ginger-garlic paste", "Saffron in warm milk", "2 tbsp ghee", "Whole spices", "1 tbsp mixed dried fruits", "Salt and cardamom"],
+          "preparation": ["Boil and par-fry all vegetables separately.", "Make base with ghee, onions, ginger-garlic and cashew paste.", "Add cream and saffron milk. Season with spices.", "Add all vegetables and paneer. Simmer 10 mins.", "Garnish with dried fruits and nuts. Serve with naan or pulao."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "50 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Nimki",
+          "region": "West Bengal / Bihar",
+          "description": "Crunchy diamond-shaped fried pastry with nigella seeds — a beloved Bengali tea-time snack.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nimki.jpg",
+          "ingredients": ["2 cups all-purpose flour", "1/2 tsp nigella seeds (kalonji)", "1/4 tsp ajwain", "2 tbsp oil (moyan)", "1/2 tsp salt", "Water to knead", "Oil for deep frying"],
+          "preparation": ["Mix flour with salt, nigella seeds, ajwain and oil (moyan). Rub well.", "Add cold water gradually to form stiff dough. Rest 15 mins.", "Roll thin. Cut into diamond or square shapes.", "Deep fry in medium hot oil until pale golden and crispy.", "Drain and cool completely. Store in airtight container."],
+          "youtube": "https://www.youtube.com/watch?v=G3KoSRzPTWU",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Navratan Pulao",
+          "region": "North India",
+          "description": "Fragrant saffron rice cooked with nine varieties of vegetables, nuts and dried fruits — a festive celebration rice.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhDWH4Ig9drIA8jYYkuQEzL-SdiX0JCFZYQ&s",
+          "ingredients": ["2 cups basmati rice", "Mixed vegetables: carrot, peas, beans, corn", "2 tbsp cashews", "2 tbsp raisins", "Saffron in warm milk", "Whole spices: cinnamon, cloves, cardamom", "2 tbsp ghee", "1 onion (sliced)", "Salt to taste"],
+          "preparation": ["Wash and soak basmati rice 20 mins. Drain.", "Fry onions in ghee until golden. Add whole spices.", "Add vegetables and sauté 3 mins.", "Add rice, 3.5 cups water, saffron milk and salt. Bring to boil.", "Cover tightly, cook on lowest heat 15 mins. Fluff and garnish with nuts."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "35 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "O",
+      "subtitle": "Old recipes with outstanding flavours",
+      "foods": [
+        {
+          "name": "Onion Pakoda",
+          "region": "Pan-India",
+          "description": "Crispy golden fritters of thinly sliced onions in spiced besan batter — the essential Indian monsoon snack.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Onion_pakoda.jpg",
+          "ingredients": ["3 onions (thinly sliced)", "1 cup besan", "1/4 tsp turmeric", "1/2 tsp red chili powder", "1/2 tsp ajwain", "1 tsp green chilies (chopped)", "Fresh coriander", "Salt to taste", "Oil for deep frying"],
+          "preparation": ["Sprinkle salt on onions. Mix and let rest 10 mins to soften.", "Add besan, all spices and coriander. Mix well. No water needed initially.", "Add very little water only if batter is too dry — batter should be thick.", "Drop spoonfuls into hot oil carefully.", "Fry until deep golden and crispy. Serve hot with mint chutney and chai."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Obbattu (Puran Poli)",
+          "region": "Karnataka / Maharashtra",
+          "description": "Sweet flatbread stuffed with chana dal and jaggery — a beloved festival sweet eaten on Ugadi and Holi.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Obbattu.jpg",
+          "ingredients": ["For stuffing: 1 cup chana dal, 1 cup jaggery, 1/4 tsp cardamom", "For dough: 1 cup maida, 1 tsp turmeric, 2 tbsp oil, water", "Ghee to finish"],
+          "preparation": ["Pressure cook chana dal. Drain excess water. Mash and mix with jaggery and cardamom.", "Cook on medium until mixture leaves sides of pan. Cool.", "Knead maida dough with oil and water to very soft, pliable consistency.", "Stuff dough with puran filling. Roll into flat thin disc.", "Cook on tawa with generous ghee until golden both sides."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "50 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Olan",
+          "region": "Kerala",
+          "description": "White pumpkin cooked in coconut milk with cowpeas — a subtle, mild and deeply soothing Onam feast dish.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olan.jpg",
+          "ingredients": ["2 cups white pumpkin (ash gourd, cubed)", "1/2 cup black-eyed peas (cooked)", "1 cup thin coconut milk", "1/2 cup thick coconut milk", "3 green chilies (slit)", "Curry leaves", "1 tsp coconut oil", "Salt to taste"],
+          "preparation": ["Cook white pumpkin in thin coconut milk with slit green chilies and salt.", "When pumpkin is just tender, add cooked black-eyed peas.", "Stir in thick coconut milk on lowest heat. Do not boil.", "Remove from heat, add curry leaves and coconut oil.", "Serve at room temperature as part of Kerala Sadya."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Oriya Dalma",
+          "region": "Odisha",
+          "description": "Toor dal cooked with mixed vegetables and tempered with panch phoran — Odisha's nutritious, everyday comfort dish.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNd8YLv1wS23_HQq7gCNt_bRGYFbsH0RfZmQ&s",
+          "ingredients": ["1 cup toor dal", "2 cups mixed vegetables (raw banana, yam, potato, raw papaya)", "1 tsp panch phoran", "1 dried red chili", "1 tbsp grated coconut", "1/2 tsp turmeric", "2 tbsp ghee", "Salt to taste", "Fresh coriander"],
+          "preparation": ["Pressure cook dal and vegetables together with turmeric and salt.", "Mash lightly — consistency should be thick but chunky.", "Heat ghee in small pan, add panch phoran and dried red chili.", "Once seeds splutter, pour tempering over cooked dalma.", "Add grated coconut and coriander. Mix and serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Osaman",
+          "region": "Gujarat",
+          "description": "Light, delicate toor dal water seasoned with jaggery and lemon — a Gujarati digestive broth drunk as soup.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Osaman.jpg",
+          "ingredients": ["1/2 cup toor dal (pressure cooked)", "1 tbsp jaggery", "1 tbsp lemon juice", "1/2 tsp turmeric", "1 tsp mustard seeds", "1/2 tsp cumin", "2 dried red chilies", "Curry leaves", "1 tbsp ghee", "Salt to taste"],
+          "preparation": ["Strain water from pressure-cooked toor dal (reserve dal for another dish).", "Thin strained water with 2 more cups of water. Add turmeric and salt.", "Add jaggery and simmer 5 mins.", "Temper mustard, cumin, dried chilies and curry leaves in ghee.", "Add tempering to osaman. Squeeze lemon juice. Serve as broth."],
+          "youtube": "https://www.youtube.com/watch?v=YEQjjnvNOcU",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Ottada",
+          "region": "Kerala",
+          "description": "Coconut-stuffed rice flour crepe wrapped in banana leaf and pan-fried — a simple, fragrant Kerala sweet.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ottada.jpg",
+          "ingredients": ["1 cup rice flour", "1/4 cup maida", "1 cup water", "Pinch of salt", "1 cup grated coconut", "1/2 cup jaggery", "1/4 tsp cardamom", "Banana leaves (cut into squares)"],
+          "preparation": ["Mix rice flour, maida, water and salt to thin batter.", "Cook coconut and jaggery together until jaggery melts and binds. Add cardamom.", "Soften banana leaf over flame. Place on flat surface.", "Pour a ladle of batter on leaf, spread. Add coconut filling in center.", "Fold leaf over into parcel. Cook on both sides on tawa 2 mins each."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "30 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "P",
+      "subtitle": "Pride of Indian street and home cooking",
+      "foods": [
+        {
+          "name": "Pani Puri",
+          "region": "Pan-India",
+          "description": "Crispy hollow puris filled with spiced potato and dunked in tangy mint water — India's most addictive street food.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pani_puri.jpg",
+          "ingredients": ["20 puri shells", "For pani: 1 cup mint, 1/2 cup coriander, 3 tbsp tamarind, 1 tsp jeera, green chilies, black salt", "For filling: 3 boiled potatoes, 1 cup boiled chickpeas, chaat masala, cumin powder"],
+          "preparation": ["Blend mint, coriander, green chilies, tamarind, cumin and black salt with 3 cups cold water.", "Strain and taste — adjust tanginess and spice. Chill.", "Mash potatoes with chickpeas, chaat masala, cumin and salt.", "Make a hole in each puri, fill with potato mix.", "Dip filled puri in pani and eat immediately."],
+          "youtube": "https://www.youtube.com/watch?v=4uS6P5bFfnI",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Pav Bhaji",
+          "region": "Mumbai",
+          "description": "A thick, buttery vegetable mash served with toasted pav buns — Mumbai's most iconic street dinner.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pav_bhaji.jpg",
+          "ingredients": ["4 potatoes (boiled, mashed)", "1 cup peas", "1 capsicum (chopped)", "2 tomatoes (pureed)", "2 onions", "2 tbsp pav bhaji masala", "2 tbsp butter", "Pav buns", "Lemon and coriander", "Salt to taste"],
+          "preparation": ["Cook all vegetables until very soft. Mash coarsely.", "Fry onions and tomatoes in butter until mushy.", "Add pav bhaji masala, salt and all mashed vegetables. Mix well.", "Mash everything together on tawa, adding butter. Cook 10 mins.", "Serve with pav toasted in butter, topped with onion and lemon."],
+          "youtube": "https://www.youtube.com/watch?v=G3KoSRzPTWU",
+          "prepTime": "40 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Poha",
+          "region": "Madhya Pradesh / Maharashtra",
+          "description": "Flattened rice stir-fried with turmeric, peanuts and curry leaves — a light, nourishing Indian morning staple.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Poha.jpg",
+          "ingredients": ["2 cups thick poha", "1 onion (finely chopped)", "1/2 cup peanuts", "1/2 tsp mustard seeds", "8 curry leaves", "1/4 tsp turmeric", "2 green chilies", "1/2 tsp sugar", "Lemon juice", "3 tbsp oil"],
+          "preparation": ["Rinse poha under running water, drain well. Rest 5 mins.", "Roast peanuts in oil until golden. Remove.", "Temper mustard seeds, curry leaves and chilies in same oil.", "Add onions and cook until translucent. Add turmeric and salt.", "Fold in poha gently. Add sugar and lemon. Garnish with peanuts and coriander."],
+          "youtube": "https://www.youtube.com/watch?v=t6KQFU1KBQE",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "region": "North India",
+          "description": "Silky paneer in a buttery tomato-cashew gravy with cream — the vegetarian answer to butter chicken, equally celebrated.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paneer_butter_masala.jpg",
+          "ingredients": ["250g paneer (cubed)", "3 tomatoes (pureed)", "1 onion", "2 tbsp cashew paste", "2 tbsp butter", "1/2 cup cream", "1 tsp kashmiri chili", "1 tsp garam masala", "1 tbsp kasuri methi", "Salt to taste"],
+          "preparation": ["Cook onions and tomatoes in butter until very soft. Blend smooth.", "Return to pan, add cashew paste and all spices.", "Simmer until gravy is thick and butter separates.", "Add paneer cubes and cream. Stir gently.", "Finish with kasuri methi. Serve with naan or pulao."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Payasam",
+          "region": "Kerala / Tamil Nadu",
+          "description": "Vermicelli or rice cooked in coconut milk with jaggery — the essential sweet of Kerala feasts and temple offerings.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Payasam.jpg",
+          "ingredients": ["1/2 cup vermicelli (roasted)", "2 cups coconut milk", "1/2 cup jaggery (dissolved)", "2 tbsp ghee", "2 tbsp cashews", "2 tbsp raisins", "1/4 tsp cardamom", "A pinch of dry ginger powder"],
+          "preparation": ["Fry cashews and raisins in ghee until golden. Remove.", "In same ghee, roast vermicelli until golden.", "Add 1.5 cups water and cook until vermicelli is soft.", "Add dissolved jaggery, thin coconut milk. Simmer 5 mins.", "Add thick coconut milk, cardamom. Do not boil after this step. Garnish with nuts."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Puran Poli",
+          "region": "Maharashtra",
+          "description": "Soft wheat flatbread stuffed with sweet lentil filling — a sacred Maharashtrian sweet made during Holi and Ganesh Chaturthi.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Puran_poli.jpg",
+          "ingredients": ["1 cup chana dal", "1 cup jaggery", "1/4 tsp cardamom", "1/4 tsp nutmeg", "2 cups wheat flour", "1 tsp turmeric", "2 tbsp oil", "Ghee to serve"],
+          "preparation": ["Pressure cook chana dal until soft. Drain and mash.", "Cook mashed dal with jaggery until dry. Add cardamom and nutmeg.", "Knead wheat flour with turmeric, oil and water to soft dough.", "Roll dough, place dal stuffing, seal and roll gently to flat disc.", "Cook on tawa with generous ghee until golden spots appear."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "50 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "Q",
+      "subtitle": "Queens of Mughal culinary heritage",
+      "foods": [
+        {
+          "name": "Qorma",
+          "region": "Mughal / Lucknow",
+          "description": "Slow-braised meat in a velvety yogurt, nut and spice sauce — the most refined dish of Mughal court cuisine.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_korma.jpg",
+          "ingredients": ["500g lamb (bone-in)", "1 cup yogurt (whisked)", "3 onions (fried golden, ground to paste)", "2 tbsp almond-cashew paste", "1 tbsp ginger-garlic paste", "1 tsp white pepper", "1 tsp mace powder", "1/2 tsp nutmeg", "3 tbsp ghee", "Kewra water and rose water"],
+          "preparation": ["Heat ghee, add ginger-garlic paste and fried onion paste. Fry 5 mins.", "Add meat, sear until white.", "Add yogurt gradually on medium heat, stirring constantly.", "Add nut paste and all spices. Add 1 cup water.", "Cover and simmer 45 mins until tender. Finish with kewra water."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Qeema Matar",
+          "region": "North India",
+          "description": "Mince meat cooked with peas in aromatic whole spices — a rustic Mughal-influenced everyday curry.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZjY2icxdLN8o8xvwKugKfdotLGGO2kHGSUw&s",
+          "ingredients": ["400g minced mutton", "1 cup green peas", "2 onions (finely chopped)", "2 tomatoes", "1 tbsp ginger-garlic paste", "1 tsp cumin seeds", "1 tsp coriander powder", "1 tsp garam masala", "1/2 tsp turmeric", "3 tbsp oil"],
+          "preparation": ["Fry onions deeply golden in oil — this is essential for flavour.", "Add ginger-garlic paste, cook 2 mins. Add tomatoes and all spices.", "Add mince, cook on high heat breaking lumps until fully browned.", "Add peas and 1/4 cup water. Mix well.", "Simmer covered 15 mins. Adjust salt. Serve with paratha."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "40 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Qubani Ka Meetha",
+          "region": "Hyderabad",
+          "description": "Poached dried apricots in sugar syrup served with cream — an elegant Hyderabadi dessert from the Nizam's table.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Qubani_ka_meetha.jpg",
+          "ingredients": ["2 cups dried apricots (soaked overnight)", "1 cup sugar", "2 cups water", "1/4 tsp cardamom", "A few saffron strands", "Whipped cream or custard to serve", "Blanched almonds"],
+          "preparation": ["Soak dried apricots in warm water overnight until plump and soft.", "Remove seeds from soaked apricots. Crack seeds and remove the kernels inside.", "Cook apricots with sugar, water and cardamom until thick and glossy.", "Add saffron and apricot kernels. Simmer 5 more mins.", "Serve warm or cold topped with whipped cream."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "30 mins (+overnight soaking)",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Qabooli Biryani",
+          "region": "Hyderabad / Mughal",
+          "description": "Chana dal and basmati rice cooked in dum with caramelised onions — one of the oldest Mughal biryani variants.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Biryani_at_Hyderabad.jpg",
+          "ingredients": ["1 cup chana dal (soaked, par-boiled)", "2 cups basmati rice", "2 onions (fried golden)", "1/2 cup yogurt", "1 tbsp biryani masala", "Saffron milk", "Fresh mint and coriander", "3 tbsp ghee", "Whole spices", "Salt to taste"],
+          "preparation": ["Marinate par-boiled chana dal in yogurt and biryani masala.", "Parboil basmati with whole spices to 70%. Drain.", "Layer dal then rice in heavy pot. Scatter fried onions and herbs.", "Drizzle saffron milk and ghee. Seal with foil and lid.", "Dum cook on tawa on very low heat 20 mins. Mix and serve."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Qeema Paratha",
+          "region": "Punjab / North India",
+          "description": "Flaky whole wheat paratha stuffed with spiced mince — a filling Punjabi breakfast that doubles as a full meal.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keema_paratha.jpg",
+          "ingredients": ["2 cups wheat flour", "200g mince (chicken or mutton)", "1 onion (finely chopped)", "1 tsp garam masala", "1 tsp cumin", "2 green chilies", "1 tbsp ginger (grated)", "Fresh coriander", "Ghee for cooking", "Salt to taste"],
+          "preparation": ["Cook mince with onions, spices, chilies and ginger until dry. Add coriander. Cool.", "Knead wheat flour dough, rest 20 mins.", "Roll out dough, place mince filling, fold and seal tightly.", "Roll gently into flat paratha — be careful not to break filling through.", "Cook on hot tawa with generous ghee until golden both sides."],
+          "youtube": "https://www.youtube.com/watch?v=6JGQawoXQl4",
+          "prepTime": "40 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Qaliya",
+          "region": "Mughal / Awadhi",
+          "description": "Rich slow-cooked meat or vegetable dish with aromatic whole spices and saffron — a gentle, golden Awadhi braise.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUE-6Yl0JnuMhXvrP-GtPCXwkf_PFDNzkgw&s",
+          "ingredients": ["500g chicken or lamb", "1 cup yogurt", "2 onions (fried, pureed)", "1 tbsp ginger-garlic paste", "1/2 tsp saffron in warm milk", "1/4 tsp mace", "1/4 tsp nutmeg", "1/2 tsp white pepper", "3 tbsp ghee", "Kewra water to finish"],
+          "preparation": ["Marinate meat in yogurt, saffron and white pepper 1 hr.", "Heat ghee, add ginger-garlic paste and fried onion puree. Cook 5 mins.", "Add marinated meat. Stir gently on medium heat.", "Add mace, nutmeg and 1/2 cup water. Cover and cook 30 mins on low.", "Finish with kewra water. Gravy should be light golden and fragrant."],
+          "youtube": "https://www.youtube.com/watch?v=1Kk3yuaSgTs",
+          "prepTime": "1 hr",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "R",
+      "subtitle": "Robust recipes rooted in tradition",
+      "foods": [
+        {
+          "name": "Rajma",
+          "region": "Punjab",
+          "description": "Red kidney beans in a thick onion-tomato masala — the ultimate Punjabi comfort food eaten with steamed rice.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajma.jpg",
+          "ingredients": ["1 cup rajma (red kidney beans, soaked overnight)", "2 onions (pureed)", "3 tomatoes (pureed)", "1 tbsp ginger-garlic paste", "1 tsp turmeric", "1 tsp coriander powder", "1 tsp garam masala", "1 tsp red chili powder", "3 tbsp oil", "Salt to taste"],
+          "preparation": ["Pressure cook soaked rajma with salt for 5–6 whistles.", "Fry onion puree in oil until deep brown, 15 mins.", "Add ginger-garlic paste, tomato puree and all spices.", "Cook until oil separates. Add cooked rajma with its water.", "Simmer 20 mins, mashing some beans to thicken. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "1 hr",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Rogan Josh",
+          "region": "Kashmir",
+          "description": "Deep red, aromatic Kashmiri lamb curry with whole spices and Ratan Jot — a UNESCO heritage worthy dish.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rogan_josh.jpg",
+          "ingredients": ["500g lamb (bone-in)", "2 tsp kashmiri chili powder", "1 cup yogurt", "Whole spices: black cardamom, bay leaf, cloves", "1/2 tsp ginger powder", "1/2 tsp fennel powder", "1/4 tsp asafoetida", "3 tbsp mustard oil", "Ratan jot (optional, for color)", "Salt to taste"],
+          "preparation": ["Heat mustard oil to smoking. Add whole spices and asafoetida.", "Add lamb, sear on high heat until browned on all sides.", "Add kashmiri chili powder dissolved in a little water. Stir well.", "Add yogurt gradually, stirring constantly. Add fennel and ginger powder.", "Cook covered on low 50 mins until oil floats and lamb is tender."],
+          "youtube": "https://www.youtube.com/watch?v=1Kk3yuaSgTs",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Rasmalai",
+          "region": "West Bengal",
+          "description": "Soft paneer discs soaked in saffron-scented reduced milk — one of India's most refined and revered desserts.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ras_malai.jpg",
+          "ingredients": ["1 litre full-fat milk (for chenna)", "2 tbsp lemon juice", "2 cups sugar", "4 cups water (for syrup)", "1 litre milk (for rasmalai)", "1/2 cup condensed milk", "Saffron strands", "Cardamom powder", "Pistachios for garnish"],
+          "preparation": ["Curdle milk with lemon juice. Strain chenna, squeeze dry and knead smooth.", "Shape into small flat discs. Cook in light sugar syrup 15 mins until doubled.", "Reduce 1 litre milk to half. Add saffron, cardamom and condensed milk.", "Squeeze syrup from chenna discs, add to milk. Chill 2 hrs.", "Serve cold garnished with pistachios and saffron strands."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "1 hr (+chilling)",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Rasam",
+          "region": "Tamil Nadu",
+          "description": "Thin, peppery tamarind and tomato broth tempered with cumin and mustard — the essential South Indian digestive soup.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rasam.jpg",
+          "ingredients": ["2 tbsp tamarind pulp", "2 tomatoes (crushed)", "1 tsp black pepper (crushed)", "1 tsp cumin", "1/2 tsp turmeric", "1 tsp rasam powder", "Mustard seeds, curry leaves, dried red chili (tempering)", "2 tbsp ghee", "Fresh coriander", "Salt to taste"],
+          "preparation": ["Dissolve tamarind in 2 cups warm water. Add crushed tomatoes and turmeric.", "Boil 5 mins until raw smell leaves. Add rasam powder and salt.", "Add crushed pepper and cumin. Simmer 3 mins.", "Temper mustard seeds, dried chili and curry leaves in ghee.", "Pour tempering into rasam. Add coriander. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Rava Dosa",
+          "region": "Tamil Nadu / Karnataka",
+          "description": "Instant lacy dosa made from semolina, rice flour and spices — no fermentation needed, full of crunch.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rava_dosa.jpg",
+          "ingredients": ["1/2 cup semolina (rava)", "1/2 cup rice flour", "2 tbsp all-purpose flour", "1 onion (finely chopped)", "2 green chilies (chopped)", "1 tsp cumin", "1 tsp pepper", "Curry leaves", "Ginger (grated)", "Oil for cooking"],
+          "preparation": ["Mix rava, rice flour and maida with salt. Add enough water to thin, watery batter.", "Add onion, chilies, cumin, pepper, curry leaves and ginger. Rest 15 mins.", "Stir batter well — it settles. Heat tawa until very hot.", "Pour batter from edges inward in thin stream, fill gaps.", "Drizzle oil. Cook until very crispy. Serve with coconut chutney."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "25 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Raita",
+          "region": "Pan-India",
+          "description": "Creamy yogurt with cucumber, tomato and roasted cumin — the cool, tangy accompaniment to every biryani and paratha.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raita.jpg",
+          "ingredients": ["2 cups thick yogurt", "1 cucumber (grated)", "1 tomato (finely chopped)", "1/2 red onion (chopped)", "1 tsp roasted cumin powder", "1/2 tsp red chili powder", "1/4 tsp black salt", "Fresh mint and coriander", "Salt to taste"],
+          "preparation": ["Whisk yogurt until smooth and creamy.", "Squeeze excess water from grated cucumber. Add to yogurt.", "Add tomato, onion, roasted cumin, salt and black salt.", "Mix well. Taste and adjust seasoning.", "Garnish with mint, chili powder and cumin. Serve chilled."],
+          "youtube": "https://www.youtube.com/watch?v=YEQjjnvNOcU",
+          "prepTime": "10 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "subtitle": "Soul food from every Indian state",
+      "foods": [
+        {
+          "name": "Samosa",
+          "region": "North India",
+          "description": "Crispy triangular pastry stuffed with spiced potatoes and peas — India's most universally adored snack.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Samosachutney.jpg",
+          "ingredients": ["2 cups all-purpose flour", "4 tbsp oil", "4 boiled potatoes (mashed)", "1 cup green peas", "1 tsp cumin seeds", "1 tsp coriander powder", "1 tsp garam masala", "1 tsp amchur", "2 green chilies", "Oil for frying"],
+          "preparation": ["Make stiff dough with flour, oil and water. Rest 30 mins.", "Cook potato filling with spices, peas and cumin until dry. Cool.", "Roll dough thin, cut circles, fold into cones and seal one seam.", "Fill each cone with potato mix, seal top tightly.", "Deep fry on medium heat until golden and crispy. Serve with chutney."],
+          "youtube": "https://www.youtube.com/watch?v=HpEpq7YuLKc",
+          "prepTime": "1 hr",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Shahi Paneer",
+          "region": "North India",
+          "description": "Paneer in a rich cashew-cream-tomato gravy with Mughal-era spices — a royal vegetarian celebration dish.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shahi_paneer.jpg",
+          "ingredients": ["300g paneer (cubed)", "1/2 cup cashew paste", "1 cup tomato puree", "1/2 cup cream", "1 tbsp ginger-garlic paste", "1/2 tsp cardamom powder", "1/4 tsp nutmeg", "1 tsp red chili powder", "3 tbsp ghee", "Saffron milk"],
+          "preparation": ["Fry onions in ghee until very soft. Add ginger-garlic and tomato puree.", "Cook until oil separates. Add cashew paste and all spices.", "Blend gravy smooth or leave as-is. Return to pan.", "Add cream, saffron milk and paneer. Simmer 8 mins.", "Garnish with cream swirl and serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=VnHVJzj7Iy0",
+          "prepTime": "35 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Sarson Ka Saag",
+          "region": "Punjab",
+          "description": "Slow-cooked mustard greens with spinach and makki di roti — the definitive taste of Punjabi winter.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarson_ka_saag.jpg",
+          "ingredients": ["500g mustard leaves (sarson)", "250g spinach", "1 onion", "2 tbsp ginger-garlic paste", "2 green chilies", "2 tbsp cornmeal (makki atta)", "4 tbsp butter / ghee", "Red chili and garlic for tempering", "Salt to taste"],
+          "preparation": ["Wash and pressure cook mustard leaves and spinach for 2 whistles.", "Blend coarsely. Add cornmeal and cook 20 mins stirring frequently.", "Fry onions, ginger-garlic and green chilies in butter until golden.", "Add cooked saag, mix and cook 10 mins.", "Finish with a generous blob of butter and serve with makki roti."],
+          "youtube": "https://www.youtube.com/watch?v=JJO3k4RIQVI",
+          "prepTime": "1 hr",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Sambar",
+          "region": "Tamil Nadu",
+          "description": "Toor dal simmered with mixed vegetables and sambar powder — South India's irreplaceable lentil broth.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambar.jpg",
+          "ingredients": ["1 cup toor dal (pressure cooked)", "1 cup mixed vegetables (drumstick, brinjal, tomato, shallots)", "2 tbsp tamarind pulp", "2 tsp sambar powder", "1/4 tsp turmeric", "Mustard seeds, curry leaves, dried red chili (tempering)", "2 tbsp oil", "Salt to taste"],
+          "preparation": ["Pressure cook toor dal until mushy. Mash well.", "Cook vegetables in tamarind water with turmeric and salt 10 mins.", "Add mashed dal and sambar powder. Bring to boil.", "Simmer 10 mins until all vegetables are cooked and flavours meld.", "Temper mustard seeds, curry leaves and dried chilies in oil. Add to sambar."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "35 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Sooji Halwa",
+          "region": "Pan-India",
+          "description": "Semolina roasted in ghee then cooked with sugar and cardamom — a sacred Indian sweet offered in temples and homes.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheera.jpg",
+          "ingredients": ["1 cup semolina (rava)", "4 tbsp ghee", "1 cup sugar", "2 cups water", "1/4 tsp cardamom powder", "2 tbsp cashews", "2 tbsp raisins", "A few saffron strands"],
+          "preparation": ["Heat ghee in heavy pan. Fry cashews and raisins until golden. Remove.", "Add semolina and roast on medium heat, stirring constantly 8–10 mins until nutty.", "Boil water with sugar and saffron. Carefully add to roasted semolina.", "Stir vigorously on low heat until liquid absorbs and halwa leaves sides.", "Add cardamom and fried nuts. Serve warm."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Sevai Kheer",
+          "region": "Pan-India",
+          "description": "Roasted vermicelli simmered in sweetened milk with cardamom and nuts — a quick, fragrant Indian dessert for any occasion.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4FOc9c8aOtDQHon21qMHHy1DbIPugDOmrw&s",
+          "ingredients": ["1 cup vermicelli (roasted)", "1 litre full-fat milk", "4 tbsp sugar", "1/4 tsp cardamom powder", "Pinch of saffron", "2 tbsp ghee", "2 tbsp cashews", "2 tbsp raisins", "Pistachios for garnish"],
+          "preparation": ["Fry cashews and raisins in ghee until golden. Remove and set aside.", "In same ghee, roast vermicelli until deep golden.", "Add milk and bring to boil, stirring frequently.", "Cook on medium 10 mins until vermicelli is soft and milk thickens.", "Add sugar, cardamom, saffron and nuts. Serve warm or chilled."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "T",
+      "subtitle": "Time-honoured tastes across India",
+      "foods": [
+        {
+          "name": "Tandoori Chicken",
+          "region": "Punjab",
+          "description": "Whole chicken marinated in yogurt and spices, charred in a clay tandoor — a legendary Punjabi invention.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tandoori_chicken.jpg",
+          "ingredients": ["1 whole chicken (cut into pieces)", "1 cup yogurt", "2 tbsp tandoori masala", "1 tbsp ginger-garlic paste", "1 tsp kashmiri chili powder", "1 tsp cumin", "Juice of 1 lemon", "2 tbsp oil", "Salt to taste", "Chaat masala to finish"],
+          "preparation": ["Make deep cuts in chicken pieces. Rub with lemon and salt. Rest 30 mins.", "Mix yogurt with all spices and ginger-garlic paste.", "Coat chicken thoroughly in marinade. Refrigerate 6–8 hrs.", "Cook in very hot oven (230°C) or on grill 25–30 mins, turning once.", "Sprinkle chaat masala. Serve with mint chutney and onion rings."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "40 mins (+marinating)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Thalipeeth",
+          "region": "Maharashtra",
+          "description": "Multigrain spiced flatbread made with jowar, bajra, wheat and besan — a robust Maharashtrian breakfast or light meal.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thalipeeth.jpg",
+          "ingredients": ["1/2 cup jowar flour", "1/2 cup bajra flour", "1/4 cup besan", "1/4 cup wheat flour", "1 onion (finely chopped)", "2 green chilies", "1 tsp cumin", "Coriander leaves", "1/2 tsp turmeric", "Oil for cooking"],
+          "preparation": ["Mix all flours together. Add onion, chilies, cumin, turmeric and coriander.", "Add water gradually to soft dough consistency.", "Wet your palm, press dough directly on oiled tawa to thin round.", "Make a small hole in center for even cooking.", "Cook with oil on medium heat until crispy on both sides. Serve with yogurt."],
+          "youtube": "https://www.youtube.com/watch?v=t6KQFU1KBQE",
+          "prepTime": "20 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Thepla",
+          "region": "Gujarat",
+          "description": "Spiced fenugreek flatbreads made with wheat flour and yogurt — a Gujarati travel staple that stays fresh for days.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thepla.jpg",
+          "ingredients": ["2 cups wheat flour", "1 cup fresh fenugreek (methi) leaves", "1/2 cup yogurt", "1 tsp turmeric", "1 tsp red chili powder", "1/2 tsp cumin", "1/2 tsp ajwain", "1 tbsp oil", "Salt to taste"],
+          "preparation": ["Wash fenugreek leaves and chop finely. Sprinkle salt and rest 5 mins.", "Mix flour, squeezed fenugreek, all spices, yogurt and oil.", "Knead to smooth, soft dough. Rest 15 mins.", "Roll into thin round discs.", "Cook on hot tawa with a little oil until golden spots appear on both sides."],
+          "youtube": "https://www.youtube.com/watch?v=6JGQawoXQl4",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Tamarind Rice",
+          "region": "Tamil Nadu / Andhra",
+          "description": "Tangy, spiced rice cooked with tamarind, sesame and peanuts — a temple prasad and festival staple of South India.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Puliyodarai.jpg",
+          "ingredients": ["2 cups cooked rice", "3 tbsp tamarind paste", "1/4 cup peanuts", "2 tbsp sesame seeds", "1 tsp mustard seeds", "1 tsp urad dal", "1 tsp chana dal", "5 dried red chilies", "Curry leaves", "3 tbsp sesame oil"],
+          "preparation": ["Heat sesame oil, fry peanuts and sesame seeds until golden. Remove.", "Temper mustard seeds, urad dal, chana dal and dried red chilies.", "Add curry leaves and tamarind paste. Cook 3 mins.", "Add turmeric, salt and 1/4 cup water. Simmer until thick puliyodarai paste.", "Mix paste through cooked rice. Add peanuts and sesame. Serve at room temp."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Toor Dal",
+          "region": "Pan-India",
+          "description": "Yellow split pigeon pea dal tempered with mustard and cumin — the wholesome everyday dal found in every Indian home.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dal_tadka.jpg",
+          "ingredients": ["1 cup toor dal", "1 tomato (chopped)", "1 tsp turmeric", "1 tsp mustard seeds", "1 tsp cumin seeds", "2 dried red chilies", "8 curry leaves", "1/4 tsp asafoetida", "2 tbsp ghee", "Salt to taste"],
+          "preparation": ["Wash and pressure cook toor dal with turmeric and salt for 3 whistles.", "Mash dal well. Adjust consistency with water.", "Heat ghee, splutter mustard seeds then cumin.", "Add dried red chilies, asafoetida and curry leaves. Sizzle 30 seconds.", "Add chopped tomato. Cook 2 mins. Pour tempering over dal. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Tikki",
+          "region": "Delhi",
+          "description": "Golden fried potato patties served as street snack or under chole — a Delhi chaat staple loved by all.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aloo_tikki.jpg",
+          "ingredients": ["4 boiled potatoes (mashed)", "2 tbsp cornflour", "1 tsp cumin powder", "1 tsp amchur", "1/2 tsp red chili powder", "1/4 tsp garam masala", "Fresh coriander", "Oil for shallow frying", "Chaat masala to finish"],
+          "preparation": ["Mix mashed potatoes with cornflour and all spices. Add coriander.", "Shape into flat round patties.", "Heat oil in flat pan on medium heat.", "Place tikki and cook 3–4 mins until deep golden. Flip and cook other side.", "Sprinkle chaat masala. Serve with green and tamarind chutney."],
+          "youtube": "https://www.youtube.com/watch?v=G3KoSRzPTWU",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "U",
+      "subtitle": "Unique dishes from coastal to highland",
+      "foods": [
+        {
+          "name": "Uttapam",
+          "region": "Tamil Nadu",
+          "description": "Thick rice pancakes topped with onions, tomatoes and chilies — South India's hearty, vegetable-laden breakfast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uttapam.jpg",
+          "ingredients": ["2 cups dosa batter (fermented)", "1 onion (finely chopped)", "2 tomatoes (finely chopped)", "3 green chilies (chopped)", "Fresh coriander", "Grated carrots (optional)", "Oil for cooking", "Salt to taste"],
+          "preparation": ["Ensure dosa batter is slightly thick for uttapam consistency.", "Heat tawa, pour a ladle of batter and do NOT spread thin — keep it thick.", "Immediately press onions, tomatoes, chilies and coriander onto wet surface.", "Drizzle oil around edges. Cook on medium-low heat 3–4 mins.", "Flip carefully, cook vegetables side 1 min. Serve with sambar and chutney."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Upma",
+          "region": "South India",
+          "description": "Roasted semolina cooked with vegetables and mustard tempering — a wholesome, quick South Indian breakfast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Upma.jpg",
+          "ingredients": ["1 cup semolina (rava)", "2 cups water", "1 onion (sliced)", "2 green chilies", "1 tsp mustard seeds", "1 tsp urad dal", "1 tsp chana dal", "Curry leaves", "2 tbsp oil", "Salt to taste", "Lemon juice"],
+          "preparation": ["Dry roast semolina in pan until lightly golden and nutty. Set aside.", "Heat oil, temper mustard seeds, dals and curry leaves.", "Add onions and green chilies. Sauté until translucent.", "Boil water with salt. Add to pan. Bring to full boil.", "Add roasted rava gradually, stirring to prevent lumps. Cook 3 mins. Add lemon."],
+          "youtube": "https://www.youtube.com/watch?v=t6KQFU1KBQE",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Undhiyu",
+          "region": "Gujarat",
+          "description": "Winter mixed vegetable casserole with muthia dumplings in a spiced fenugreek gravy — a Gujarati feast in a pot.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Undhiyu.jpg",
+          "ingredients": ["Mixed winter vegetables: purple yam, raw banana, brinjal, beans, potato", "For muthia: 1 cup besan, fenugreek leaves, spices", "1 tsp ajwain", "1 cup cilantro-coconut-green chili paste", "1/2 tsp turmeric", "1 tsp sugar", "3 tbsp oil", "Salt to taste"],
+          "preparation": ["Make muthia by kneading besan, methi, spices. Shape into cylinders, steam.", "Prepare all vegetables. Make green paste with coconut, coriander and chilies.", "Heat oil with ajwain and asafoetida. Add green paste and fry 3 mins.", "Add all vegetables layered, drizzle spice mix between layers.", "Cover and slow cook 25–30 mins on very low heat. Add steamed muthia."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Urad Dal Tadka",
+          "region": "North India",
+          "description": "Whole black urad dal with a fiery tempering of ghee, garlic and dried chilies — simple, rustic and deeply satisfying.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dal_tadka.jpg",
+          "ingredients": ["1 cup whole urad dal (soaked overnight)", "1 tsp turmeric", "1 onion (chopped)", "2 tomatoes (chopped)", "1 tbsp ginger-garlic paste", "1 tsp cumin", "3 tbsp ghee", "4 garlic cloves (sliced)", "3 dried red chilies", "Salt to taste"],
+          "preparation": ["Pressure cook soaked urad dal with turmeric and salt for 4 whistles.", "In another pan, fry onions golden. Add ginger-garlic and tomatoes.", "Add cumin and cook until oil separates.", "Add cooked dal to gravy. Simmer together 10 mins.", "Separately fry garlic slices and dried chilies in ghee until crispy. Pour over dal."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "40 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Unniyappam",
+          "region": "Kerala",
+          "description": "Small, round fried rice and banana sweets spiced with cardamom — a temple offering and beloved Kerala snack.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unniappam.jpg",
+          "ingredients": ["1 cup raw rice flour", "2 ripe bananas (mashed)", "1/2 cup jaggery (dissolved)", "1/4 cup grated coconut", "1/4 tsp cardamom powder", "1/4 tsp dry ginger powder", "1/4 tsp baking soda", "Coconut oil for frying"],
+          "preparation": ["Mix rice flour with mashed banana and dissolved jaggery.", "Add grated coconut, cardamom, ginger and baking soda.", "Mix to smooth, slightly thick batter. Rest 30 mins.", "Heat appe pan (paniyaram pan) with coconut oil in each cavity.", "Pour batter into each well. Cook covered 2 mins, flip and cook 2 more mins."],
+          "youtube": "https://www.youtube.com/watch?v=lp3bBVMqMTM",
+          "prepTime": "40 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Unni Appam",
+          "region": "Kerala",
+          "description": "Mini fried rice balls with coconut and plantain — a sweet snack unique to Thrissur's Pooram festival and temple kitchens.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unniappam.jpg",
+          "ingredients": ["1 cup rice flour", "1 ripe plantain (mashed)", "1/2 cup jaggery", "2 tbsp black sesame seeds", "1/4 cup grated coconut", "1/4 tsp cardamom", "Coconut oil for deep frying", "Salt to taste"],
+          "preparation": ["Dissolve jaggery in 1/4 cup warm water. Strain to remove impurities.", "Mix rice flour with jaggery water, mashed plantain and grated coconut.", "Add sesame seeds and cardamom. Batter should be thick.", "Rest batter 15 mins.", "Deep fry spoonfuls in coconut oil until dark golden and cooked through."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "30 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "V",
+      "subtitle": "Vibrant vegetarian and coastal delights",
+      "foods": [
+        {
+          "name": "Vada Pav",
+          "region": "Mumbai",
+          "description": "Spiced potato fritter in a bread bun with three chutneys — the unofficial national snack of Mumbai.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vada_pav.jpg",
+          "ingredients": ["4 pav buns", "4 boiled potatoes (mashed)", "1 tsp mustard seeds", "1/2 tsp turmeric", "2 green chilies (minced)", "1 cup besan", "1 tsp red chili powder", "Green chutney", "Dry garlic chutney", "Tamarind chutney", "Oil for frying"],
+          "preparation": ["Temper mustard, turmeric and green chilies. Mix with mashed potato and salt.", "Shape into round balls. Make thick besan batter with chili powder.", "Dip potato ball in batter, deep fry until golden. This is the vada.", "Slit pav, spread all three chutneys generously inside.", "Place hot vada inside pav. Press and serve immediately."],
+          "youtube": "https://www.youtube.com/watch?v=G3KoSRzPTWU",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Vindaloo",
+          "region": "Goa",
+          "description": "Fiery pork or chicken in a sharp vinegar and chili sauce — Goa's Portuguese-influenced crown jewel of heat.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindaloo.jpg",
+          "ingredients": ["500g pork (or chicken, cubed)", "10 dried red chilies", "1 tbsp coriander seeds", "1 tsp cumin", "1/2 tsp turmeric", "6 garlic cloves", "1 inch ginger", "4 tbsp vinegar", "2 onions", "3 tbsp oil", "Salt to taste"],
+          "preparation": ["Grind chilies, coriander, cumin, garlic, ginger and turmeric with vinegar.", "Marinate meat in spice-vinegar paste overnight.", "Fry onions in oil until very brown. Add marinated meat.", "Cook on high heat until meat sears. Add 1/2 cup water.", "Simmer covered 40 mins until tender and oil separates. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "1 hr (+overnight marinating)",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Medu Vada",
+          "region": "Tamil Nadu / Karnataka",
+          "description": "Crispy ring-shaped urad dal fritters served with sambar — the iconic South Indian breakfast and temple offering.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Medhu_vadai.jpg",
+          "ingredients": ["1 cup urad dal (soaked 3 hrs)", "2 green chilies (minced)", "1 tsp black pepper (crushed)", "1/2 tsp cumin", "Curry leaves (chopped)", "1 tsp grated ginger", "Salt to taste", "Oil for deep frying"],
+          "preparation": ["Grind soaked urad dal to thick, fluffy batter with minimal water.", "Add green chilies, pepper, cumin, curry leaves and ginger. Mix well.", "Wet your hand, take a ball of batter, poke center hole with thumb.", "Slide gently into hot oil. Fry on medium heat until golden, 3–4 mins per side.", "Serve hot with coconut chutney and sambar."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "30 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Vendakkai Curry",
+          "region": "Tamil Nadu",
+          "description": "Crispy stir-fried ladies finger with tangy tomatoes and spices — a simple everyday South Indian curry.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhindi_masala.jpg",
+          "ingredients": ["300g okra (vendakkai, sliced)", "1 onion (sliced)", "2 tomatoes (chopped)", "1/2 tsp mustard seeds", "1/2 tsp cumin", "1/2 tsp turmeric", "1 tsp red chili powder", "1 tsp coriander powder", "2 tbsp oil", "Curry leaves"],
+          "preparation": ["Wash and dry okra completely — this prevents sliminess.", "Heat oil, fry okra in batches until crispy. Remove and set aside.", "In same oil, temper mustard and cumin. Add onions and curry leaves.", "Add tomatoes, turmeric and all dry spices. Cook until mushy.", "Add fried okra, toss to coat. Cook 3 mins. Serve with rice or roti."],
+          "youtube": "https://www.youtube.com/watch?v=lXMY6rC3dVA",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Vermicelli Kheer",
+          "region": "Pan-India",
+          "description": "Roasted semiya simmered in sweetened milk with cardamom and saffron — a fragrant Indian dessert ready in minutes.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sevai_kheer.jpg",
+          "ingredients": ["3/4 cup thin vermicelli (semiya)", "1 litre full-fat milk", "4 tbsp sugar", "1 tbsp ghee", "2 tbsp cashews", "2 tbsp raisins", "1/4 tsp cardamom", "Pinch of saffron", "Pistachios to garnish"],
+          "preparation": ["Fry cashews and raisins in ghee. Remove. Roast vermicelli in same ghee.", "Heat milk and bring to boil. Add roasted vermicelli.", "Cook on medium heat 8–10 mins, stirring, until vermicelli softens.", "Add sugar, saffron and cardamom. Stir and cook 3 more mins.", "Garnish with fried nuts and pistachios. Serve warm or chilled."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Veg Kolhapuri",
+          "region": "Maharashtra (Kolhapur)",
+          "description": "Fiery mixed vegetable curry in Kolhapuri masala with coconut — one of Maharashtra's boldest, most robust dishes.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4LXHCe7kpkeW8tSeVuxR9BIIEj72vrOZdaA&s",
+          "ingredients": ["2 cups mixed vegetables (cauliflower, carrot, peas, potato)", "For Kolhapuri masala: 1/4 cup grated coconut, 4 red chilies, coriander-cumin-sesame seeds", "1 onion (sliced)", "2 tomatoes (pureed)", "1 tbsp ginger-garlic paste", "4 tbsp oil", "Salt to taste"],
+          "preparation": ["Dry roast coconut, red chilies, coriander, cumin and sesame seeds. Grind to powder.", "Fry onions golden, add ginger-garlic paste and tomato puree.", "Add kolhapuri masala powder and cook until oil separates.", "Add parboiled vegetables, mix to coat well with masala.", "Add 1/2 cup water, cover and cook 12 mins. Serve with bhakri."],
+          "youtube": "https://www.youtube.com/watch?v=XQ2fEp4NHZU",
+          "prepTime": "40 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "W",
+      "subtitle": "Warming winter and wedding favourites",
+      "foods": [
+        {
+          "name": "Wazwan",
+          "region": "Kashmir",
+          "description": "The grand multi-course Kashmiri feast featuring rogan josh, rista and gushtaba — a centuries-old cultural tradition.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wazwan.jpg",
+          "ingredients": ["For Rista: 500g minced mutton, fennel, cardamom, milk", "For Gushtaba: 500g minced mutton pounded fine, yogurt gravy", "Saffron", "Whole spices", "Mustard oil", "Salt to taste"],
+          "preparation": ["Pound mutton to extremely fine paste for rista and gushtaba balls.", "Shape into large smooth meatballs and simmer in spiced water.", "Prepare saffron-yogurt gravy with whole spices separately.", "Add cooked meatballs to gravy and simmer 20 mins.", "Serve in large copper traam (plate) for communal dining."],
+          "youtube": "https://www.youtube.com/watch?v=1Kk3yuaSgTs",
+          "prepTime": "2.5 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Wheat Halwa",
+          "region": "North India",
+          "description": "Whole wheat flour slow-roasted in ghee and cooked in sugar syrup — a deeply nourishing winter festive sweet.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atte_ka_halwa.jpg",
+          "ingredients": ["1 cup whole wheat flour (atta)", "4 tbsp ghee", "3/4 cup sugar", "2 cups water", "1/4 tsp cardamom powder", "2 tbsp cashews", "2 tbsp raisins", "A pinch of saffron"],
+          "preparation": ["Heat ghee in heavy pan. Add wheat flour.", "Roast on low heat stirring continuously for 15–20 mins until deep golden brown.", "Boil water with sugar and saffron. Carefully add to roasted flour.", "Stir vigorously on medium heat until mixture thickens and leaves pan sides.", "Add cashews, raisins and cardamom. Serve warm."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "White Chicken Curry",
+          "region": "Mughal / Awadhi",
+          "description": "Mild, aromatic chicken in a pale yogurt-cashew gravy with kewra — a Lucknowi preparation known as Safed Murgh.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Safed_murgh.jpg",
+          "ingredients": ["500g chicken", "1 cup yogurt", "3 tbsp cashew-almond paste", "2 onions (fried golden, ground)", "1 tbsp ginger-garlic paste", "1/2 tsp white pepper", "1/4 tsp mace", "1/4 tsp nutmeg", "3 tbsp ghee", "Kewra water"],
+          "preparation": ["Heat ghee, add ginger-garlic paste and fried onion paste. Cook 5 mins.", "Add chicken pieces and sear until white on all sides.", "Add whisked yogurt gradually on low heat, stirring gently.", "Add nut paste, white pepper, mace and nutmeg.", "Cook covered 25 mins on low. Finish with kewra water. Serve with naan."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "50 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Watermelon Rind Sabzi",
+          "region": "Rajasthan / South India",
+          "description": "Tender watermelon rind cooked with spices — a clever zero-waste curry from frugal Indian household kitchens.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSL4I88MrkSArJOQ4_tYvH2sb8b8Katn1vAA&s",
+          "ingredients": ["3 cups watermelon rind (white part, cubed)", "1 tsp mustard seeds", "1/2 tsp turmeric", "1 tsp coriander powder", "1/2 tsp cumin powder", "2 green chilies", "Curry leaves", "1 tsp amchur or lemon juice", "2 tbsp oil", "Salt to taste"],
+          "preparation": ["Peel hard green skin from watermelon rind. Cube the white portion.", "Heat oil, temper mustard seeds, green chilies and curry leaves.", "Add watermelon rind and turmeric. Mix and cook 2 mins.", "Add coriander, cumin, salt and 3 tbsp water. Cover and cook 10 mins.", "Finish with amchur or lemon juice. Serve with dal and rice."],
+          "youtube": "https://www.youtube.com/watch?v=lXMY6rC3dVA",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Winter Melon Sambar",
+          "region": "Tamil Nadu",
+          "description": "Ash gourd (white pumpkin) in toor dal sambar — a light, digestive sambar served in Tamil homes year-round.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambar.jpg",
+          "ingredients": ["2 cups ash gourd (petha, cubed)", "1/2 cup toor dal (cooked)", "2 tbsp tamarind pulp", "2 tsp sambar powder", "1/4 tsp turmeric", "Mustard seeds, curry leaves (tempering)", "2 tbsp oil", "Salt to taste", "Fresh coriander"],
+          "preparation": ["Cook ash gourd cubes in tamarind water with turmeric and salt.", "When tender, add mashed toor dal and sambar powder.", "Bring to boil, simmer 8 mins until well combined.", "Temper mustard seeds and curry leaves in oil. Add to sambar.", "Garnish with coriander. Serve with steamed rice and papad."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Whole Wheat Ladoo",
+          "region": "North India / Maharashtra",
+          "description": "Roasted whole wheat flour ladoos with jaggery and dry fruits — a nutritious, energising traditional sweet.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atta_ladoo.jpg",
+          "ingredients": ["2 cups whole wheat flour", "3/4 cup jaggery (grated)", "1/2 cup ghee", "1/4 tsp cardamom", "2 tbsp cashews (chopped)", "2 tbsp almonds (chopped)", "2 tbsp raisins"],
+          "preparation": ["Roast wheat flour in ghee on low heat stirring constantly until golden, 15 mins.", "Allow to cool slightly — it should be warm, not hot.", "Add grated jaggery, cardamom and mix until jaggery melts into flour.", "Add chopped nuts and raisins. Mix well.", "While still warm, shape into round ladoos. Cool completely before storing."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "letter": "X",
+      "subtitle": "Extraordinary regional specialties",
+      "foods": [
+        {
+          "name": "Xacuti",
+          "region": "Goa",
+          "description": "Goan chicken or lamb curry in a complex roasted coconut and poppy seed masala — one of Goa's most cherished dishes.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrTj68uXzA8YzPGHjfeKoiR7ctMyDkK46wQ&s",
+          "ingredients": ["500g chicken (bone-in)", "1 cup grated coconut", "2 tbsp poppy seeds", "1 tbsp coriander seeds", "6 dried red chilies", "1 tsp cumin", "1/4 tsp turmeric", "2 onions", "1 tbsp tamarind", "3 tbsp oil", "Salt to taste"],
+          "preparation": ["Dry roast coconut until dark golden. Roast coriander, poppy seeds and dried chilies separately.", "Grind all roasted ingredients with tamarind and water to fine paste.", "Fry sliced onions golden in oil. Add ground xacuti masala.", "Fry masala 5–7 mins until fragrant and oil separates.", "Add chicken, sear, add water. Simmer 30 mins until tender."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "1 hr",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Xitti Kodi",
+          "region": "Goa (Konkani)",
+          "description": "Goan fish curry cooked in red masala with kokum — the Saraswat Brahmin community's treasured everyday fish preparation.",
+          "image": "https://i0.wp.com/theaspiringhomecook.com/wp-content/uploads/2019/10/A15BC428-F106-450E-80A1-99700D45B4DD-scaled.jpeg?resize=800%2C530&ssl=1",
+          "ingredients": ["400g fish (mackerel or pomfret)", "1/2 cup grated coconut", "6 dried red Kashmiri chilies", "1 tsp coriander seeds", "1/2 tsp cumin", "1/4 tsp turmeric", "3 kokum pieces", "1 onion", "2 tbsp oil", "Salt to taste"],
+          "preparation": ["Grind coconut, red chilies, coriander, cumin and turmeric with water to smooth paste.", "Fry onion in oil until lightly golden.", "Add ground masala, fry 3–4 mins until cooked.", "Add 1.5 cups water, kokum and salt. Bring to simmer.", "Add fish pieces, cook 10 mins gently without breaking fish."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "30 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Xaak Bhaji",
+          "region": "Assam",
+          "description": "Assamese leafy greens stir-fried with mustard oil and dried fish — a pungent, wholesome staple of the Brahmaputra valley.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xaak_bhaji.jpg",
+          "ingredients": ["3 cups mustard greens or spinach (xaak)", "2 tbsp dried fish (optional)", "1 tsp mustard seeds", "3 dried red chilies", "1 tbsp mustard oil", "2 garlic cloves (sliced)", "1/4 tsp turmeric", "Salt to taste"],
+          "preparation": ["Wash and roughly chop the leafy greens (xaak).", "Heat mustard oil until it reaches smoking point. Reduce heat.", "Add dried red chilies and mustard seeds. Let them splutter.", "Add garlic and dried fish if using. Fry 1 min.", "Add greens and turmeric. Stir-fry on high heat 4–5 mins until wilted. Serve with rice."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "15 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Xordoi Tenga",
+          "region": "Assam",
+          "description": "Light, tangy fish curry with starfruit (xordoi) — Assam's beloved sour fish preparation, simple and deeply refreshing.",
+          "image": "https://t3.ftcdn.net/jpg/02/83/60/80/360_F_283608039_GXJI1EPBEB3q5m7QUFizMvwy6Gn8yhM5.jpg",
+          "ingredients": ["400g fresh water fish (rohu)", "2 starfruits (xordoi) or tomato", "1/4 tsp turmeric", "1 tsp mustard seeds", "3 green chilies", "1 tbsp mustard oil", "Salt to taste", "Fresh coriander"],
+          "preparation": ["Rub fish with turmeric and salt. Fry lightly in mustard oil. Remove.", "Temper mustard seeds in same oil until they pop.", "Add sliced starfruit and green chilies. Cook 3 mins.", "Add 1.5 cups water, bring to gentle boil.", "Add fried fish, simmer 8–10 mins. Serve with steamed rice."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Xoru Maas",
+          "region": "Assam",
+          "description": "Small freshwater fish cooked in a light mustard and ginger broth — Assam's delicate, aromatic everyday fish curry.",
+          "image": "https://nenow.in/wp-content/uploads/2024/08/Small-fish-fry-289269-pixahive.jpg",
+          "ingredients": ["300g small freshwater fish (xoru maas)", "1 tbsp mustard paste", "1/2 tsp turmeric", "2 green chilies", "1 inch ginger (grated)", "Mustard oil", "Salt to taste", "Fresh coriander"],
+          "preparation": ["Clean small fish carefully. Coat with turmeric and salt.", "Fry fish in mustard oil until golden. Set aside.", "In same oil, add ginger and green chilies. Cook 1 min.", "Add mustard paste and 1 cup water. Bring to simmer.", "Add fried fish, cook gently 6–8 mins. Serve with boiled rice."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "25 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Xacuti Masala Egg",
+          "region": "Goa",
+          "description": "Hard-boiled eggs slow-cooked in Goa's signature dark roasted xacuti masala — a bold vegetarian take on a Goan classic.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xacuti.jpg",
+          "ingredients": ["6 eggs (hard-boiled, peeled)", "1/2 cup grated coconut (roasted dark)", "1 tbsp poppy seeds", "5 dried red chilies", "1 tsp coriander seeds", "1/2 tsp cumin", "2 onions", "1 tbsp tamarind", "3 tbsp oil", "Salt to taste"],
+          "preparation": ["Roast coconut until very dark. Roast all spices separately.", "Grind everything with tamarind to thick, dark masala paste.", "Fry onions in oil until deep golden. Add xacuti masala paste.", "Fry masala 5 mins until aromatic and fragrant.", "Add eggs and 1 cup water. Simmer 10 mins. Serve with poi (bread) or rice."],
+          "youtube": "https://www.youtube.com/watch?v=9WXUBDMcFAQ",
+          "prepTime": "40 mins",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "letter": "Y",
+      "subtitle": "Yearned-for classics from Kashmir to Kerala",
+      "foods": [
+        {
+          "name": "Yakhni",
+          "region": "Kashmir",
+          "description": "Tender lamb in a creamy, fennel-scented yogurt broth — a pale, delicate and profoundly aromatic Kashmiri dish.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yakhni.jpg",
+          "ingredients": ["500g lamb (bone-in)", "1.5 cups yogurt (whisked)", "1 tsp fennel powder", "1 tsp dried ginger powder", "1/4 tsp asafoetida", "Whole spices: black cardamom, cloves, bay leaf", "3 tbsp mustard oil", "Saffron in warm milk", "Salt to taste"],
+          "preparation": ["Heat mustard oil. Add whole spices and asafoetida.", "Add lamb pieces and sear until sealed.", "Add 2 cups water and pressure cook for 2 whistles.", "Return to low heat. Gradually add whisked yogurt, stirring constantly.", "Add fennel powder, ginger powder and saffron. Simmer 20 mins."],
+          "youtube": "https://www.youtube.com/watch?v=1Kk3yuaSgTs",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Yakhni Pulao",
+          "region": "Kashmir / Awadhi",
+          "description": "Fragrant basmati cooked in rich bone broth with whole spices — the refined Kashmiri answer to biryani.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4hadLkETLOL_vsW37quYHPyHPjNPGb7PVw&s",
+          "ingredients": ["2 cups basmati rice", "500g lamb (bone-in, for yakhni stock)", "Whole spices: black cardamom, bay leaf, cinnamon, cloves", "2 onions (fried golden)", "1 tbsp ginger-garlic paste", "1 tsp fennel powder", "3 tbsp ghee", "Saffron milk", "Salt to taste"],
+          "preparation": ["Make yakhni (stock): Simmer lamb with whole spices 45 mins. Strain stock.", "Fry onions in ghee until deep golden. Add ginger-garlic paste.", "Add soaked basmati rice. Stir to coat with ghee.", "Add 3.5 cups strained lamb stock. Bring to boil.", "Cover tightly and cook on lowest heat 15 mins. Serve with raita."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "1.5 hrs",
+          "difficulty": "Hard"
+        },
+        {
+          "name": "Yellow Dal Tadka",
+          "region": "Pan-India",
+          "description": "Smooth moong or masoor dal with a smoky cumin-garlic-chili tempering — quick, comforting and endlessly versatile.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsPXzYQzWd_Z3wAwr_aZynTzy-9pUoqHnxA&s",
+          "ingredients": ["1 cup yellow moong dal or masoor dal", "1 tomato (chopped)", "1/2 tsp turmeric", "1 tsp cumin seeds", "4 garlic cloves (sliced)", "2 dried red chilies", "1/4 tsp asafoetida", "2 tbsp ghee", "Fresh coriander", "Salt to taste"],
+          "preparation": ["Pressure cook dal with turmeric, tomato and salt for 2 whistles.", "Mash dal to smooth consistency. Adjust water.", "Heat ghee until very hot. Add cumin seeds and let them darken slightly.", "Add garlic slices and fry until golden. Add dried chilies and asafoetida.", "Pour sizzling tadka immediately over dal. Garnish with coriander."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Yam Curry",
+          "region": "Kerala / Tamil Nadu",
+          "description": "Elephant foot yam in a spiced coconut masala — a bold, earthy curry that anchors both festival and everyday meals.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephant_foot_yam_curry.jpg",
+          "ingredients": ["400g elephant yam (suran, peeled, cubed)", "1 cup grated coconut", "3 green chilies", "1 tsp cumin", "1/2 cup yogurt", "Mustard seeds, curry leaves (tempering)", "1/2 tsp turmeric", "2 tbsp coconut oil", "Salt to taste"],
+          "preparation": ["Boil yam cubes with turmeric, salt and a little tamarind until tender.", "Grind coconut, cumin and green chilies to coarse paste.", "Add coconut paste to cooked yam on low heat. Cook 5 mins.", "Remove from heat and stir in yogurt.", "Temper mustard seeds and curry leaves in coconut oil. Pour over curry."],
+          "youtube": "https://www.youtube.com/watch?v=5xt0EHW6Kdo",
+          "prepTime": "35 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Yogurt Kadhi",
+          "region": "Gujarat / Rajasthan",
+          "description": "Silky smooth besan-yogurt curry tempered with ghee and cumin — a light, tangy and nourishing everyday preparation.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kadhi.jpg",
+          "ingredients": ["1.5 cups sour yogurt", "3 tbsp besan", "1/2 tsp turmeric", "1 tsp sugar", "1 tsp ginger paste", "1 tsp cumin seeds", "1/4 tsp asafoetida", "3 dried red chilies", "Curry leaves", "2 tbsp ghee"],
+          "preparation": ["Whisk yogurt, besan, turmeric, sugar and 2 cups water until smooth.", "Cook on medium heat, stirring continuously until it comes to boil.", "Add ginger paste and salt. Simmer 15–20 mins until slightly thickened.", "Heat ghee, add cumin, asafoetida, dried chilies and curry leaves.", "Pour tempering into kadhi. Serve with steamed rice."],
+          "youtube": "https://www.youtube.com/watch?v=NQVBkRa5MRU",
+          "prepTime": "30 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Yerli Tavuk (Murgh Musallam)",
+          "region": "Mughal / Hyderabad",
+          "description": "Whole chicken stuffed with spiced egg and mince, slow-roasted in a saffron-nut gravy — a Mughal imperial showpiece.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Murgh_musallam.jpg",
+          "ingredients": ["1 whole chicken", "2 hard-boiled eggs", "100g mince (for stuffing)", "1 cup yogurt", "2 onions (fried, ground)", "Cashew-almond paste", "1 tsp garam masala", "Saffron milk", "4 tbsp ghee", "Kewra water"],
+          "preparation": ["Marinate whole chicken in yogurt, ginger-garlic and spices for 4 hrs.", "Prepare stuffing with cooked spiced mince and whole hard-boiled eggs.", "Stuff chicken cavity with mince and eggs. Truss the chicken.", "Brown stuffed chicken in ghee on all sides in heavy pot.", "Add onion paste, nut paste, saffron milk. Cover and slow cook 1 hr."],
+          "youtube": "https://www.youtube.com/watch?v=a03U45jFxOI",
+          "prepTime": "2 hrs",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "letter": "Z",
+      "subtitle": "Zesty and zealous flavours to finish",
+      "foods": [
+        {
+          "name": "Zarda",
+          "region": "Mughal / North India",
+          "description": "Sweet saffron rice studded with dry fruits and served at weddings — a Mughal-origin celebratory rice dessert.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zarda.jpg",
+          "ingredients": ["2 cups basmati rice", "1 cup sugar", "1/2 tsp saffron in warm water", "Yellow food color", "4 tbsp ghee", "2 tbsp mixed dry fruits (cashews, raisins, almonds)", "1 tbsp pistachios", "Whole spices: cardamom, cloves", "Rose water"],
+          "preparation": ["Parboil basmati rice with whole spices and yellow color. Drain.", "Make one-string sugar syrup. Keep warm.", "Heat ghee, fry dry fruits until golden. Remove.", "Add parboiled rice and sugar syrup to pan. Mix gently.", "Cover and cook on lowest heat 15 mins. Fluff, add saffron water and rose water."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "40 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Zafrani Pulao",
+          "region": "Awadhi / Lucknow",
+          "description": "Glistening saffron-scented basmati rice cooked in milk with dry fruits — elegant Awadhi rice for special occasions.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdabLDDQVzK-TcKSwmcFl8twGITmiayWMBnQ&s",
+          "ingredients": ["2 cups basmati rice", "1/2 tsp saffron", "2 cups milk", "1 cup water", "1/4 cup sugar", "3 tbsp ghee", "2 tbsp rose water", "Cashews, almonds, raisins, pistachios", "Whole spices: cardamom, bay leaf", "Salt to taste"],
+          "preparation": ["Soak saffron in 3 tbsp warm milk for 15 mins.", "Wash and soak basmati rice 20 mins. Drain.", "Bring milk and water to boil. Add rice, ghee and whole spices.", "Cook covered on low heat 12 mins. Rice should be just cooked.", "Add saffron milk, rose water and dry fruits. Cover 5 more mins."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "35 mins",
+          "difficulty": "Medium"
+        },
+        {
+          "name": "Zunka",
+          "region": "Maharashtra / Karnataka",
+          "description": "Thick, spiced besan preparation cooked dry with mustard and asafoetida — a rustic, protein-rich Marathi staple.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zunka.jpg",
+          "ingredients": ["1 cup besan (gram flour)", "2 onions (finely chopped)", "3 green chilies", "1 tsp mustard seeds", "1/2 tsp cumin", "1/4 tsp asafoetida", "1/4 tsp turmeric", "1 tsp red chili powder", "Curry leaves", "3 tbsp oil"],
+          "preparation": ["Heat oil, temper mustard, cumin, asafoetida and curry leaves.", "Add onions and green chilies. Sauté until golden.", "Add turmeric and red chili powder.", "Sprinkle besan over the mixture while continuously stirring.", "Sprinkle 2 tbsp water, mix well. Cook on low until besan is cooked and grainy. Serve with bhakri."],
+          "youtube": "https://www.youtube.com/watch?v=t6KQFU1KBQE",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Zafrani Kheer",
+          "region": "North India / Mughal",
+          "description": "Saffron-laden rice pudding slow-simmered in full-fat milk with cardamom — a golden, jewelled festive dessert.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kheer.jpg",
+          "ingredients": ["1 litre full-fat milk", "3 tbsp basmati rice", "4 tbsp sugar", "1/2 tsp saffron in warm milk", "1/4 tsp cardamom powder", "2 tbsp pistachios", "2 tbsp blanched almonds", "1 tbsp rose water", "Dried rose petals to garnish"],
+          "preparation": ["Soak saffron in 3 tbsp warm milk. Set aside.", "Boil milk in heavy pan. Add washed rice.", "Cook on medium heat 30 mins, stirring often until rice breaks down.", "Add sugar, saffron milk, cardamom and rose water. Cook 5 more mins.", "Serve in small bowls, garnished with pistachios, almonds and rose petals."],
+          "youtube": "https://www.youtube.com/watch?v=nKJiJA6HK-o",
+          "prepTime": "45 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Zeera Rice",
+          "region": "Pan-India",
+          "description": "Aromatic basmati rice tempered with cumin seeds and ghee — a simple, fragrant accompaniment to any Indian curry.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49zpG69_kA9rY1gWe0x2_3D-TzxFI0Ekrzg&s",
+          "ingredients": ["2 cups basmati rice (soaked 20 mins)", "2 tsp cumin seeds", "3 tbsp ghee", "1 bay leaf", "Salt to taste", "3.5 cups water", "Fresh coriander to garnish"],
+          "preparation": ["Drain soaked basmati rice.", "Heat ghee in pot. Add bay leaf and cumin seeds.", "Let cumin sizzle and darken slightly, 30 seconds.", "Add drained rice and stir gently to coat with ghee for 1 min.", "Add water and salt, bring to boil. Cover and cook on lowest heat 12 mins. Garnish with coriander."],
+          "youtube": "https://www.youtube.com/watch?v=m_Ys7yFLJAI",
+          "prepTime": "20 mins",
+          "difficulty": "Easy"
+        },
+        {
+          "name": "Zarda Pulao with Dry Fruits",
+          "region": "Hyderabad / Awadhi",
+          "description": "Lavish sweet rice loaded with saffron, rose water and exotic dry fruits — served at the end of a grand Mughal feast.",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zarda.jpg",
+          "ingredients": ["2 cups basmati rice", "3/4 cup sugar", "1/2 tsp saffron", "4 tbsp ghee", "2 tbsp rose water", "2 tbsp kewra water", "3 tbsp cashews", "3 tbsp raisins", "2 tbsp dried apricots (chopped)", "2 tbsp pistachios"],
+          "preparation": ["Parboil rice until 70% done. Drain completely.", "Make one-string sugar syrup. Colour half with saffron.", "Layer rice in pot, alternating with plain and saffron syrup layers.", "Add ghee, rose water and kewra water over the top.", "Seal tightly and dum cook 15 mins on lowest heat. Garnish with fried dry fruits."],
+          "youtube": "https://www.youtube.com/watch?v=8OTjAhvMj8A",
+          "prepTime": "50 mins",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

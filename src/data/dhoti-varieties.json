@@ -1,0 +1,164 @@
+{
+  "Draping Style": [
+    {
+      "name": "Panchakacham (5-Yard Traditional Drape)",
+      "category": "Draping Style",
+      "region": "Tamil Nadu",
+      "occasion": "Temple rituals, weddings, orthodox ceremonies",
+      "description": "A more elaborate five-part draping style where the dhoti is wrapped, tucked, and pleated to resemble loose trousers with a rear flap, traditionally worn by priests and during formal Tamil Brahmin rituals.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9reLFZ6Jq5ff295hZzR_cFnBll7MevCtCEDEziyVl-g&s",
+      "materials": "Cotton or silk, single long panel (veshti)",
+      "difficulty": "High",
+      "notes": "Requires practiced skill to drape correctly; largely worn today only by priests and at select rituals."
+    },
+    {
+      "name": "Kacha (Bengali Dhoti Drape)",
+      "category": "Draping Style",
+      "region": "West Bengal, Odisha",
+      "occasion": "Durga Puja, weddings, festive functions",
+      "description": "A distinctive Bengali draping technique where the front pleats are pulled between the legs and tucked at the back waist, creating a loose, trouser-like fall unique to Bengali dhoti-wearing tradition.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxptcxyRNV3IeZs4W6RwKgtsgczUC4ISZqVoiapzp28gXK8QNDuB9d5wX&s=10",
+      "materials": "Cotton or silk (garad/tussar), single panel",
+      "difficulty": "High",
+      "notes": "Closely associated with Bengali groom's wedding attire, paired with a punjabi (kurta) and often a red-bordered dhoti."
+    },
+    {
+      "name": "Simple Waist-Tie Drape",
+      "category": "Draping Style",
+      "region": "Pan-India",
+      "occasion": "Daily wear, casual home wear",
+      "description": "The most basic drape — wrapped once around the waist and tied or tucked without the multiple pleated folds of ceremonial styles — worn for comfort in everyday domestic settings.",
+      "image": "https://images.squarespace-cdn.com/content/v1/55de7b84e4b05b5cc8c23805/1486005084491-6FE5RN97KX45MQ8XAD9H/image-asset.jpeg",
+      "materials": "Cotton",
+      "difficulty": "Low",
+      "notes": "The most common way dhotis are worn casually at home across most regions of India."
+    },
+    {
+      "name": "Half-Dhoti (Angavastram Pair)",
+      "category": "Draping Style",
+      "region": "South India",
+      "occasion": "Temple visits, semi-formal occasions",
+      "description": "A shorter dhoti draped to fall around knee-to-mid-calf length, typically worn with a matching angavastram (shoulder cloth) rather than a full-length drape.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QuYV3KOFOoDYtrzaKcVYPs02CC4FRZDFKgvE9Rsw2Q&s",
+      "materials": "Cotton",
+      "difficulty": "Low",
+      "notes": "A practical, breathable choice suited to South Indian climate for daily temple visits."
+    }
+  ],
+  "Fabric & Weave": [
+    {
+      "name": "Cotton Dhoti",
+      "category": "Fabric & Weave",
+      "region": "Pan-India",
+      "occasion": "Daily wear, casual functions",
+      "description": "Woven from plain white or off-white cotton, the most common and breathable dhoti fabric suited to everyday wear across India's varied climates.",
+      "image": "https://sepiastories.in/wp-content/uploads/2023/04/SODOA01.webp",
+      "materials": "100% cotton",
+      "difficulty": "Low",
+      "notes": "The default fabric for daily and semi-formal dhoti wear due to comfort and easy upkeep."
+    },
+    {
+      "name": "Silk Dhoti (Pattu Veshti)",
+      "category": "Fabric & Weave",
+      "region": "Tamil Nadu, Kerala, Andhra Pradesh",
+      "occasion": "Weddings, temple functions, festive wear",
+      "description": "Woven from silk, often with a zari border matching the regional saree tradition (such as Kanjeevaram-style borders), worn for weddings and major festive or religious occasions.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_xsxbMmfKF81Dh_omhpmOiSMzLVPamvq3cfWWitcVrCXbwpCo6PaYoGv&s=10",
+      "materials": "Silk, zari border",
+      "difficulty": "Moderate",
+      "notes": "Often purchased as a matching pair with an angavastram carrying the same zari border."
+    },
+    {
+      "name": "Mundu (Kerala White Dhoti)",
+      "category": "Fabric & Weave",
+      "region": "Kerala",
+      "occasion": "Onam, weddings, temple visits, daily wear",
+      "description": "Kerala's distinct dhoti variant, typically pristine white or cream cotton with a simple gold (kasavu) or coloured border, worn double-folded at the waist rather than pleated between the legs.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BIB61Hxe3ni2rnZyiYWoP9NUPHSVELZMP8ovY6SdNaqjv3NYr4D_lLY&s=10",
+      "materials": "Cotton, kasavu (gold) border",
+      "difficulty": "Low",
+      "notes": "Considered a distinct garment name (mundu) though functionally part of the wider dhoti family."
+    },
+    {
+      "name": "Silk-Cotton Blend Dhoti",
+      "category": "Fabric & Weave",
+      "region": "South India",
+      "occasion": "Semi-formal festive wear",
+      "description": "Combines silk and cotton yarns to offer some of the sheen and drape of silk at a lighter weight and lower cost than pure silk dhotis.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8mxNwg_Liv4HJ2ajsysYPhhlqi8M4bouJhLIsk-M91hJIqAxTgzZJMjV&s=10",
+      "materials": "Silk-cotton blend, zari border",
+      "difficulty": "Low",
+      "notes": "A popular mid-range choice for festive functions where a pure silk dhoti isn't necessary."
+    }
+  ],
+  "Border & Colour Tradition": [
+    {
+      "name": "Zari-Border Dhoti",
+      "category": "Border & Colour Tradition",
+      "region": "South India",
+      "occasion": "Weddings, festive, temple functions",
+      "description": "Carries a gold or silver zari border along the length, ranging from a slim decorative line to a wide, heavily worked border for bridegroom wear.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yVfK00eg8Hu1tVw-70T0hlJYhlNx3JQ3QdPiO6vs8FhzIIKgsV9QVxg&s=10",
+      "materials": "Cotton or silk, zari border",
+      "difficulty": "Moderate",
+      "notes": "Border width is often used as an informal signal of formality — wider borders for weddings, narrower for temple visits."
+    },
+    {
+      "name": "Colour-Bordered Dhoti (Kaavi/Red Border)",
+      "category": "Border & Colour Tradition",
+      "region": "Tamil Nadu, Andhra Pradesh, Karnataka",
+      "occasion": "Festive functions, religious ceremonies",
+      "description": "Features a solid colour border — commonly red, maroon, or mustard — instead of metallic zari, offering a simpler but still festive alternative.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6Csv4MRYiYFcoO_Ix1a5Kseywt0N6pABLVZkho0riA&s",
+      "materials": "Cotton, dyed colour border",
+      "difficulty": "Low",
+      "notes": "A more affordable and everyday alternative to zari-bordered dhotis, common for regular temple wear."
+    },
+    {
+      "name": "Plain White Dhoti",
+      "category": "Border & Colour Tradition",
+      "region": "Pan-India",
+      "occasion": "Daily wear, mourning rites, religious observance",
+      "description": "A borderless or minimally bordered plain white dhoti, worn for daily comfort as well as for religious rites and mourning ceremonies where unadorned white is considered appropriate.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjpPL5EpvbCPNwHuYkIA1bOhABbs59yv6eAD6jaZxVjFz9Ytg9Jat5UA&s=10",
+      "materials": "Plain cotton",
+      "difficulty": "Low",
+      "notes": "The most versatile dhoti type, appropriate across the widest range of everyday and ritual contexts."
+    }
+  ],
+  "Regional Variants": [
+    {
+      "name": "Dhotar (Maharashtrian Dhoti)",
+      "category": "Regional Variants",
+      "region": "Maharashtra",
+      "occasion": "Religious ceremonies, traditional festivals",
+      "description": "Draped in a distinct Maharashtrian style with pleats tucked to create a dhoti-cum-trouser shape, traditionally paired with a pheta (turban) for full ceremonial dress.",
+      "image": "https://images.jdmagicbox.com/quickquotes/images_main/wedding-textured-dhotar-2-10-mtr-khadi-dhoti-for-men-803051320-qa2guu5g.jpg",
+      "materials": "Cotton or silk",
+      "difficulty": "High",
+      "notes": "Often paired with a matching pheta and a Nehru-style jacket for weddings and cultural events."
+    },
+    {
+      "name": "Dhuti (Assamese/Bengali Everyday Variant)",
+      "category": "Regional Variants",
+      "region": "Assam, West Bengal",
+      "occasion": "Bihu, Durga Puja, daily wear",
+      "description": "A regional variant worn across eastern India, generally lighter and simpler in drape than the ceremonial Bengali kacha style, used for both daily and festive contexts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6eHNSa8-lOzrzSURcJUHqGsGubH2jdHFC581CmuiEMQ&s=10",
+      "materials": "Cotton",
+      "difficulty": "Low",
+      "notes": "Distinguished from the formal kacha drape by its simpler, quicker tie."
+    },
+    {
+      "name": "Panche (Karnataka Dhoti)",
+      "category": "Regional Variants",
+      "region": "Karnataka",
+      "occasion": "Daily wear, temple visits, festive functions",
+      "description": "Karnataka's regional term and style for the dhoti, typically draped in a simple waist-tie style and often checked rather than plain, especially for daily wear.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZENJkSiXstWZCQkpVUeaJlojPKaeJ-v6OeQeJeKJ9V667VwOFyctIDFe&s=10",
+      "materials": "Cotton, checked or plain weave",
+      "difficulty": "Low",
+      "notes": "Checked cotton panches are common daily wear, while plain white or zari-bordered versions are reserved for formal occasions."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "bharat": [
+    "https://indianexpress.com/section/india/feed/",
+    "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+    "https://www.thehindu.com/news/national/feeder/default.rss",
+    "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml",
+    "https://www.news18.com/rss/india.xml"
+  ],
+  "global": [
+    "https://indianexpress.com/section/world/feed/",
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://www.theguardian.com/world/rss",
+    "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/world.xml",
+    "https://www.news18.com/commonfeeds/v1/eng/rss/world.xml",
+    "https://globalnews.ca/feed/"
+  ],
+  "sports": [
+    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/sports.xml",
+    "https://www.skysports.com/rss/12040",
+    "https://feeds.bbci.co.uk/sport/rss.xml",
+    "https://www.espn.com/espn/rss/news"
+  ],
+  "finance": [
+    "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+    "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "https://www.livemint.com/rss/money"
+  ],
+  "cricket": [
+    "https://sportstar.thehindu.com/cricket/feeder/default.rss",
+    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/firstcricket.xml",
+    "https://feeds.bbci.co.uk/sport/cricket/rss.xml"
+  ],
+  "golf": [
+    "https://golf.com/feed/",
+    "https://sportstar.thehindu.com/golf/feeder/default.rss",
+    "https://feeds.bbci.co.uk/sport/golf/rss.xml",
+    "https://www.espn.com/espn/rss/golf/news",
+    "https://mediacenter.usga.org/press-releases?pagetemplate=rss",
+    "https://mediacenter.usga.org/press-releases?pagetemplate=rss&category=782",
+    "https://mediacenter.usga.org/press-releases?pagetemplate=rss&category=808"
+  ],
+  "hockey": [
+    "https://sportstar.thehindu.com/hockey/feeder/default.rss",
+    "https://www.espn.com/espn/rss/nhl/news",
+    "https://feeds.bbci.co.uk/sport/ice-hockey/rss.xml"
+  ],
+  "nfl": [
+    "https://feeds.bbci.co.uk/sport/american-football/rss.xml",
+    "https://www.espn.com/espn/rss/nfl/news"
+  ],
+  "nba": [
+    "https://sportstar.thehindu.com/basketball/feeder/default.rss",
+    "https://feeds.bbci.co.uk/sport/basketball/rss.xml",
+    "https://www.espn.com/espn/rss/nba/news",
+    "https://www.sbnation.com/rss/nba/index.xml"
+  ],
+  "soccer": [
+    "https://sportstar.thehindu.com/football/feeder/default.rss",
+    "https://arseblog.com/feed",
+    "https://www.espn.com/espn/rss/soccer/news",
+    "https://www.skysports.com/rss/11937"
+  ],
+  "chess": [
+    "https://sportstar.thehindu.com/chess/feeder/default.rss",
+    "https://www.chess.com/rss/news",
+    "https://theweekinchess.com/twic-rss-feed",
+    "https://feeds.feedburner.com/chessnews-usefulchesscom",
+    "https://en.chessbase.com/feed"
+  ],
+  "nhl": [
+    "https://feeds.bbci.co.uk/sport/ice-hockey/rss.xml",
+    "https://www.espn.com/espn/rss/nhl/news"
+  ],
+  "mlb": [
+    "https://www.espn.com/espn/rss/mlb/news",
+    "https://www.drivelinebaseball.com/blog/feed/",
+    "https://www.mlb.com/feeds/news/rss.xml",
+    "https://www.mlb.com/yankees/feeds/news/rss.xml",
+    "https://bestworst.substack.com/feed"
+  ],
+  "tennis": [
+    "https://sportstar.thehindu.com/tennis/feeder/default.rss",
+    "https://www.espn.com/espn/rss/tennis/news",
+    "https://feeds.bbci.co.uk/sport/tennis/rss.xml",
+    "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+  ],
+  "auto": [
+    "https://www.motortrend.com/feed/",
+    "https://www.caranddriver.com/rss/news.xml"
+  ],
+  "technology": [
+    "https://indianexpress.com/section/technology/feed/",
+    "https://www.thestreet.com/.rss/feed/0189c085-b1f6-4e4c-be08-989d56d0fa86.xml"
+  ],
+  "entertainment": [
+    "https://www.usmagazine.com/category/entertainment/feed/",
+    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/entertainment.xml",
+    "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
+    "https://hollywoodlife.com/feed/"
+  ],
+  "immigration": [
+    "https://migri.fi/en/press-releases?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_h86npU2Dqv2l&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
+    "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Immigration,%20Refugees%20and%20Citizenship%20Canada",
+    "https://feeds.bbci.co.uk/news/world/rss.xml"
+  ],
+  "health": [
+    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/health.xml",
+    "https://medicalxpress.com/rss-feed/",
+    "https://health.economictimes.indiatimes.com/rss/recentstories",
+    "https://health.economictimes.indiatimes.com/rss/topstories",
+    "https://www.sciencedaily.com/rss/top/health.xml"
+  ],
+  "gossip": [
+    "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
+    "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
+    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/education.xml",
+    "https://techxplore.com/rss-feed/",
+    "https://www.tmz.com/rss.xml"
+  ],
+  "olympics": ["https://www.independent.co.uk/sport/football/world-cup/rss"]
+}
